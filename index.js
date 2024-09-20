@@ -90,9 +90,9 @@ async function main() {
         }
       };
       const object = {
-        key: vanity,
-        vanityURL: vanity,
-        destinationURL: destination,
+        name: vanity,
+        // vanityURL: vanity,
+        // destinationURL: destination,
         value: value,
         metadata: value,
       };

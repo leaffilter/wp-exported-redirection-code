@@ -1,11 +1,9 @@
 [
     {
-        "key": "/blog/trending-topics/7-home-trends-that-should-be-on-every-boomers-radar/",
-        "vanityURL": "/blog/trending-topics/7-home-trends-that-should-be-on-every-boomers-radar/",
-        "destinationURL": "/blog/trending-topics/home-trends-boomers/",
+        "name": "/blog/trending-topics/7-home-trends-that-should-be-on-every-boomers-radar/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.773Z",
+            "timestamp": "2024-09-20T14:21:05.076Z",
             "redirect": "/blog/trending-topics/home-trends-boomers/",
             "userdata": {
                 "id": "system-event",
@@ -15,7 +13,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.773Z",
+            "timestamp": "2024-09-20T14:21:05.076Z",
             "redirect": "/blog/trending-topics/home-trends-boomers/",
             "userdata": {
                 "id": "system-event",
@@ -25,12 +23,10 @@
         }
     },
     {
-        "key": "/blog/trending-topics/6-top-communities-where-you-can-thrive-in-place/",
-        "vanityURL": "/blog/trending-topics/6-top-communities-where-you-can-thrive-in-place/",
-        "destinationURL": "/blog/trending-topics/top-retirement-communities/",
+        "name": "/blog/trending-topics/6-top-communities-where-you-can-thrive-in-place/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/blog/trending-topics/top-retirement-communities/",
             "userdata": {
                 "id": "system-event",
@@ -40,7 +36,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/blog/trending-topics/top-retirement-communities/",
             "userdata": {
                 "id": "system-event",
@@ -50,12 +46,10 @@
         }
     },
     {
-        "key": "/save15/",
-        "vanityURL": "/save15/",
-        "destinationURL": "/discover/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/save15/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -65,7 +59,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -75,12 +69,10 @@
         }
     },
     {
-        "key": "/15off/",
-        "vanityURL": "/15off/",
-        "destinationURL": "/discover/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/15off/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -90,7 +82,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -100,12 +92,10 @@
         }
     },
     {
-        "key": "/clipper/",
-        "vanityURL": "/clipper/",
-        "destinationURL": "/discover/?utm_source=17&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/clipper/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=17&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -115,7 +105,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=17&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -125,12 +115,10 @@
         }
     },
     {
-        "key": "/moneymailer/",
-        "vanityURL": "/moneymailer/",
-        "destinationURL": "/discover/?utm_source=59&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/moneymailer/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=59&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -140,7 +128,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=59&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -150,12 +138,10 @@
         }
     },
     {
-        "key": "/newspaper/",
-        "vanityURL": "/newspaper/",
-        "destinationURL": "/discover/?utm_source=60&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/newspaper/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=60&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -165,7 +151,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=60&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -175,12 +161,10 @@
         }
     },
     {
-        "key": "/mailercard/",
-        "vanityURL": "/mailercard/",
-        "destinationURL": "/discover/?utm_source=61&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/mailercard/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=61&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -190,7 +174,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=61&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -200,12 +184,10 @@
         }
     },
     {
-        "key": "/mailer/",
-        "vanityURL": "/mailer/",
-        "destinationURL": "/discover/?utm_source=62&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/mailer/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=62&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -215,7 +197,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=62&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -225,12 +207,10 @@
         }
     },
     {
-        "key": "/smartsource/",
-        "vanityURL": "/smartsource/",
-        "destinationURL": "/discover/?utm_source=63&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/smartsource/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=63&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -240,7 +220,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/?utm_source=63&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -250,12 +230,10 @@
         }
     },
     {
-        "key": "/warrenty/",
-        "vanityURL": "/warrenty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/register/",
+        "name": "/warrenty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/register/",
             "userdata": {
                 "id": "system-event",
@@ -265,7 +243,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/register/",
             "userdata": {
                 "id": "system-event",
@@ -275,12 +253,10 @@
         }
     },
     {
-        "key": "/warranty-registration/",
-        "vanityURL": "/warranty-registration/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warranty-registration/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -290,7 +266,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -300,12 +276,10 @@
         }
     },
     {
-        "key": "/waranty/",
-        "vanityURL": "/waranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/waranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -315,7 +289,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -325,12 +299,10 @@
         }
     },
     {
-        "key": "/leafhomesafetysolutions-warranty/",
-        "vanityURL": "/leafhomesafetysolutions-warranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/leafhomesafetysolutions-warranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -340,7 +312,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -350,12 +322,10 @@
         }
     },
     {
-        "key": "/warranty/",
-        "vanityURL": "/warranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -365,7 +335,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -375,12 +345,10 @@
         }
     },
     {
-        "key": "/referral/",
-        "vanityURL": "/referral/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/friends/",
+        "name": "/referral/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/friends/",
             "userdata": {
                 "id": "system-event",
@@ -390,7 +358,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/friends/",
             "userdata": {
                 "id": "system-event",
@@ -400,12 +368,10 @@
         }
     },
     {
-        "key": "/refer/",
-        "vanityURL": "/refer/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/friends/",
+        "name": "/refer/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/friends/",
             "userdata": {
                 "id": "system-event",
@@ -415,7 +381,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/friends/",
             "userdata": {
                 "id": "system-event",
@@ -425,12 +391,10 @@
         }
     },
     {
-        "key": "/wwaarranty/",
-        "vanityURL": "/wwaarranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/wwaarranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -440,7 +404,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -450,12 +414,10 @@
         }
     },
     {
-        "key": "/warrantyregistration/",
-        "vanityURL": "/warrantyregistration/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warrantyregistration/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -465,7 +427,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -475,12 +437,10 @@
         }
     },
     {
-        "key": "/warranty/",
-        "vanityURL": "/warranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -490,7 +450,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -500,12 +460,10 @@
         }
     },
     {
-        "key": "/refer-a-friend/",
-        "vanityURL": "/refer-a-friend/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/friends/",
+        "name": "/refer-a-friend/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/friends/",
             "userdata": {
                 "id": "system-event",
@@ -515,7 +473,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/friends/",
             "userdata": {
                 "id": "system-event",
@@ -525,12 +483,10 @@
         }
     },
     {
-        "key": "/warrany/",
-        "vanityURL": "/warrany/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warrany/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -540,7 +496,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -550,12 +506,10 @@
         }
     },
     {
-        "key": "/warrantee/",
-        "vanityURL": "/warrantee/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warrantee/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -565,7 +519,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -575,12 +529,10 @@
         }
     },
     {
-        "key": "/lwarranty/",
-        "vanityURL": "/lwarranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/lwarranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -590,7 +542,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -600,12 +552,10 @@
         }
     },
     {
-        "key": "/warrranty/",
-        "vanityURL": "/warrranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warrranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -615,7 +565,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -625,12 +575,10 @@
         }
     },
     {
-        "key": "/warrarty/",
-        "vanityURL": "/warrarty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warrarty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -640,7 +588,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -650,12 +598,10 @@
         }
     },
     {
-        "key": "/warrant/",
-        "vanityURL": "/warrant/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warrant/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -665,7 +611,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -675,12 +621,10 @@
         }
     },
     {
-        "key": "/warr/",
-        "vanityURL": "/warr/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/warr/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -690,7 +634,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -700,12 +644,10 @@
         }
     },
     {
-        "key": "/waranty/",
-        "vanityURL": "/waranty/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "name": "/waranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -715,7 +657,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/warranty/",
             "userdata": {
                 "id": "system-event",
@@ -725,12 +667,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/albright/",
-        "vanityURL": "/service-area/west-virginia/albright/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/albright/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -740,7 +680,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -750,12 +690,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/alma/",
-        "vanityURL": "/service-area/west-virginia/alma/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/alma/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -765,7 +703,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -775,12 +713,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/anmoore/",
-        "vanityURL": "/service-area/west-virginia/anmoore/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/anmoore/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -790,7 +726,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -800,12 +736,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/arthurdale/",
-        "vanityURL": "/service-area/west-virginia/arthurdale/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/arthurdale/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -815,7 +749,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -825,12 +759,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/aurora-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/aurora-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/aurora-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -840,7 +772,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -850,12 +782,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/bretz/",
-        "vanityURL": "/service-area/west-virginia/bretz/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/bretz/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -865,7 +795,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -875,12 +805,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/bridgeport-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/bridgeport-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/bridgeport-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -890,7 +818,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -900,12 +828,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/bruceton-mills/",
-        "vanityURL": "/service-area/west-virginia/bruceton-mills/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/bruceton-mills/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -915,7 +841,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -925,12 +851,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/center-point/",
-        "vanityURL": "/service-area/west-virginia/center-point/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/center-point/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -940,7 +864,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -950,12 +874,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/clarksburg-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/clarksburg-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/clarksburg-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -965,7 +887,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -975,12 +897,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/eglon/",
-        "vanityURL": "/service-area/west-virginia/eglon/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/eglon/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -990,7 +910,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1000,12 +920,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/enterprise/",
-        "vanityURL": "/service-area/west-virginia/enterprise/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/enterprise/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1015,7 +933,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1025,12 +943,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/flemington/",
-        "vanityURL": "/service-area/west-virginia/flemington/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/flemington/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1040,7 +956,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1050,12 +966,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/friendly/",
-        "vanityURL": "/service-area/west-virginia/friendly/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/friendly/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1065,7 +979,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1075,12 +989,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/grafton-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/grafton-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/grafton-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1090,7 +1002,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1100,12 +1012,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/gypsy/",
-        "vanityURL": "/service-area/west-virginia/gypsy/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/gypsy/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1115,7 +1025,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1125,12 +1035,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/haywood/",
-        "vanityURL": "/service-area/west-virginia/haywood/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/haywood/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1140,7 +1048,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1150,12 +1058,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/hepzibah/",
-        "vanityURL": "/service-area/west-virginia/hepzibah/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/hepzibah/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1165,7 +1071,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1175,12 +1081,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/independence-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/independence-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/independence-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1190,7 +1094,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1200,12 +1104,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/kingwood/",
-        "vanityURL": "/service-area/west-virginia/kingwood/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/kingwood/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1215,7 +1117,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1225,12 +1127,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/lost-creek/",
-        "vanityURL": "/service-area/west-virginia/lost-creek/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/lost-creek/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1240,7 +1140,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1250,12 +1150,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/lumberport/",
-        "vanityURL": "/service-area/west-virginia/lumberport/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/lumberport/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1265,7 +1163,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1275,12 +1173,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/masontown-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/masontown-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/masontown-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1290,7 +1186,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1300,12 +1196,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/meadowbrook/",
-        "vanityURL": "/service-area/west-virginia/meadowbrook/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/meadowbrook/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1315,7 +1209,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1325,12 +1219,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/middlebourne/",
-        "vanityURL": "/service-area/west-virginia/middlebourne/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/middlebourne/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1340,7 +1232,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1350,12 +1242,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/mount-clare/",
-        "vanityURL": "/service-area/west-virginia/mount-clare/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/mount-clare/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1365,7 +1255,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1375,12 +1265,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/new-milton/",
-        "vanityURL": "/service-area/west-virginia/new-milton/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/new-milton/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1390,7 +1278,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1400,12 +1288,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/newburg/",
-        "vanityURL": "/service-area/west-virginia/newburg/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/newburg/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1415,7 +1301,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1425,12 +1311,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/reedsville/",
-        "vanityURL": "/service-area/west-virginia/reedsville/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/reedsville/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1440,7 +1324,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1450,12 +1334,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/reynoldsville-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/reynoldsville-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/reynoldsville-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1465,7 +1347,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1475,12 +1357,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/rosemont/",
-        "vanityURL": "/service-area/west-virginia/rosemont/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/rosemont/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1490,7 +1370,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1500,12 +1380,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/rowlesburg/",
-        "vanityURL": "/service-area/west-virginia/rowlesburg/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/rowlesburg/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1515,7 +1393,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1525,12 +1403,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/salem-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/salem-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/salem-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1540,7 +1416,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1550,12 +1426,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/shinnston/",
-        "vanityURL": "/service-area/west-virginia/shinnston/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/shinnston/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1565,7 +1439,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1575,12 +1449,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/shirley/",
-        "vanityURL": "/service-area/west-virginia/shirley/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/shirley/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1590,7 +1462,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1600,12 +1472,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/simpson/",
-        "vanityURL": "/service-area/west-virginia/simpson/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/simpson/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1615,7 +1485,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1625,12 +1495,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/sistersville/",
-        "vanityURL": "/service-area/west-virginia/sistersville/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/sistersville/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1640,7 +1508,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1650,12 +1518,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/smithburg/",
-        "vanityURL": "/service-area/west-virginia/smithburg/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/smithburg/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1665,7 +1531,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1675,12 +1541,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/spelter/",
-        "vanityURL": "/service-area/west-virginia/spelter/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/spelter/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1690,7 +1554,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1700,12 +1564,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/terra-alta/",
-        "vanityURL": "/service-area/west-virginia/terra-alta/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/terra-alta/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1715,7 +1577,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1725,12 +1587,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/thornton-west-virginia/",
-        "vanityURL": "/service-area/west-virginia/thornton-west-virginia/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/thornton-west-virginia/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1740,7 +1600,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1750,12 +1610,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/wallace/",
-        "vanityURL": "/service-area/west-virginia/wallace/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/wallace/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1765,7 +1623,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1775,12 +1633,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/west-milford/",
-        "vanityURL": "/service-area/west-virginia/west-milford/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/west-milford/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1790,7 +1646,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1800,12 +1656,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/west-union/",
-        "vanityURL": "/service-area/west-virginia/west-union/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/west-union/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1815,7 +1669,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1825,12 +1679,10 @@
         }
     },
     {
-        "key": "/service-area/west-virginia/wyatt/",
-        "vanityURL": "/service-area/west-virginia/wyatt/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/",
+        "name": "/service-area/west-virginia/wyatt/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1840,7 +1692,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/",
             "userdata": {
                 "id": "system-event",
@@ -1850,12 +1702,10 @@
         }
     },
     {
-        "key": "/warranty/",
-        "vanityURL": "/warranty/",
-        "destinationURL": "/register/",
+        "name": "/warranty/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/register/",
             "userdata": {
                 "id": "system-event",
@@ -1865,7 +1715,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/register/",
             "userdata": {
                 "id": "system-event",
@@ -1875,12 +1725,10 @@
         }
     },
     {
-        "key": "/leaf-home-safety-solutions-licenses/",
-        "vanityURL": "/leaf-home-safety-solutions-licenses/",
-        "destinationURL": "/licenses/",
+        "name": "/leaf-home-safety-solutions-licenses/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/licenses/",
             "userdata": {
                 "id": "system-event",
@@ -1890,7 +1738,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/licenses/",
             "userdata": {
                 "id": "system-event",
@@ -1900,12 +1748,10 @@
         }
     },
     {
-        "key": "/tub/",
-        "vanityURL": "/tub/",
-        "destinationURL": "/discover/walk-in-tubs/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/tub/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/walk-in-tubs/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -1915,7 +1761,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/walk-in-tubs/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -1925,12 +1771,10 @@
         }
     },
     {
-        "key": "/lift/",
-        "vanityURL": "/lift/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/discover/stair-lifts/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/lift/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/discover/stair-lifts/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -1940,7 +1784,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/discover/stair-lifts/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -1950,12 +1794,10 @@
         }
     },
     {
-        "key": "/shower/",
-        "vanityURL": "/shower/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/discover/tub-to-shower/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "name": "/shower/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/discover/tub-to-shower/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -1965,7 +1807,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/discover/tub-to-shower/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
             "userdata": {
                 "id": "system-event",
@@ -1975,12 +1817,10 @@
         }
     },
     {
-        "key": "/recruitingqr/",
-        "vanityURL": "/recruitingqr/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/careers/installers/",
+        "name": "/recruitingqr/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/careers/installers/",
             "userdata": {
                 "id": "system-event",
@@ -1990,7 +1830,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/careers/installers/",
             "userdata": {
                 "id": "system-event",
@@ -2000,12 +1840,10 @@
         }
     },
     {
-        "key": "/installer/",
-        "vanityURL": "/installer/",
-        "destinationURL": "/careers/installers/",
+        "name": "/installer/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/careers/installers/",
             "userdata": {
                 "id": "system-event",
@@ -2015,7 +1853,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/careers/installers/",
             "userdata": {
                 "id": "system-event",
@@ -2025,12 +1863,10 @@
         }
     },
     {
-        "key": "/discover/lf-base-template/",
-        "vanityURL": "/discover/lf-base-template/",
-        "destinationURL": "/discover/call-today/",
+        "name": "/discover/lf-base-template/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/call-today/",
             "userdata": {
                 "id": "system-event",
@@ -2040,7 +1876,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/call-today/",
             "userdata": {
                 "id": "system-event",
@@ -2050,12 +1886,10 @@
         }
     },
     {
-        "key": "/yelp/",
-        "vanityURL": "/yelp/",
-        "destinationURL": "https://www.leafhomesafetysolutions.com/discover/?utm_source=41DY&utm_campaign=yelp-ND",
+        "name": "/yelp/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/discover/?utm_source=41DY&utm_campaign=yelp-ND",
             "userdata": {
                 "id": "system-event",
@@ -2065,7 +1899,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "https://www.leafhomesafetysolutions.com/discover/?utm_source=41DY&utm_campaign=yelp-ND",
             "userdata": {
                 "id": "system-event",
@@ -2075,12 +1909,10 @@
         }
     },
     {
-        "key": "/promo/oasis/",
-        "vanityURL": "/promo/oasis/",
-        "destinationURL": "/promo/",
+        "name": "/promo/oasis/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/promo/",
             "userdata": {
                 "id": "system-event",
@@ -2090,7 +1922,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/promo/",
             "userdata": {
                 "id": "system-event",
@@ -2100,12 +1932,10 @@
         }
     },
     {
-        "key": "/discover/oasis/",
-        "vanityURL": "/discover/oasis/",
-        "destinationURL": "/discover/",
+        "name": "/discover/oasis/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/",
             "userdata": {
                 "id": "system-event",
@@ -2115,7 +1945,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/",
             "userdata": {
                 "id": "system-event",
@@ -2125,12 +1955,10 @@
         }
     },
     {
-        "key": "/discover/call-today/",
-        "vanityURL": "/discover/call-today/",
-        "destinationURL": "/discover/",
+        "name": "/discover/call-today/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/",
             "userdata": {
                 "id": "system-event",
@@ -2140,7 +1968,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/discover/",
             "userdata": {
                 "id": "system-event",
@@ -2150,12 +1978,10 @@
         }
     },
     {
-        "key": "/go-browns/",
-        "vanityURL": "/go-browns/",
-        "destinationURL": "/gobrowns/",
+        "name": "/go-browns/",
         "value": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/gobrowns/",
             "userdata": {
                 "id": "system-event",
@@ -2165,7 +1991,7 @@
         },
         "metadata": {
             "type": "redirect",
-            "timestamp": "2024-09-20T13:59:21.774Z",
+            "timestamp": "2024-09-20T14:21:05.077Z",
             "redirect": "/gobrowns/",
             "userdata": {
                 "id": "system-event",
