@@ -1,0 +1,11 @@
+{
+  "name": "redirect-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "process": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

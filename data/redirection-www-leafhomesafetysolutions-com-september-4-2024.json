@@ -1,0 +1,2574 @@
+{
+    "plugin": {
+        "version": "5.4.2",
+        "date": "Wed, 04 Sep 2024 19:14:09 +0000"
+    },
+    "groups": [
+        {
+            "id": 1,
+            "name": "Redirections",
+            "redirects": 96,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "name": "Modified Posts",
+            "redirects": 2,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        }
+    ],
+    "redirects": [
+        {
+            "id": 1,
+            "url": "/blog/trending-topics/7-home-trends-that-should-be-on-every-boomers-radar/",
+            "match_url": "/blog/trending-topics/7-home-trends-that-should-be-on-every-boomers-radar",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/trending-topics/home-trends-boomers/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 0,
+            "last_access": "December 10, 2023",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "url": "/blog/trending-topics/6-top-communities-where-you-can-thrive-in-place/",
+            "match_url": "/blog/trending-topics/6-top-communities-where-you-can-thrive-in-place",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/trending-topics/top-retirement-communities/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 1,
+            "last_access": "July 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "url": "^/save15/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 2,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 4,
+            "url": "^/15off/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 8,
+            "regex": true,
+            "group_id": 1,
+            "position": 3,
+            "last_access": "August 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 5,
+            "url": "^/clipper/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=17&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 4,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 6,
+            "url": "^/moneymailer/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=59&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 5,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 7,
+            "url": "^/newspaper/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=60&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 6,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 8,
+            "url": "^/mailercard/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=61&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 7,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 9,
+            "url": "^/mailer/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=62&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": true,
+            "group_id": 1,
+            "position": 8,
+            "last_access": "August 17, 2024",
+            "enabled": true
+        },
+        {
+            "id": 10,
+            "url": "^/smartsource/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=63&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 9,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 11,
+            "url": "/warrenty",
+            "match_url": "/warrenty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/register/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 10,
+            "last_access": "February 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 12,
+            "url": "/warranty-registration",
+            "match_url": "/warranty-registration",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 11,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 13,
+            "url": "/waranty",
+            "match_url": "/waranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 12,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 14,
+            "url": "/leafhomesafetysolutions-warranty",
+            "match_url": "/leafhomesafetysolutions-warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 13,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 15,
+            "url": "/Warranty",
+            "match_url": "/warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1707,
+            "regex": false,
+            "group_id": 1,
+            "position": 14,
+            "last_access": "September 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 16,
+            "url": "/referral",
+            "match_url": "/referral",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/friends/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 15,
+            "last_access": "January 23, 2024",
+            "enabled": true
+        },
+        {
+            "id": 17,
+            "url": "/refer",
+            "match_url": "/refer",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/friends/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 31,
+            "regex": false,
+            "group_id": 1,
+            "position": 16,
+            "last_access": "February 20, 2024",
+            "enabled": true
+        },
+        {
+            "id": 18,
+            "url": "^/friends(/.*)?$",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/refer/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 27,
+            "regex": true,
+            "group_id": 1,
+            "position": 17,
+            "last_access": "February 20, 2024",
+            "enabled": true
+        },
+        {
+            "id": 19,
+            "url": "/Wwaarranty",
+            "match_url": "/wwaarranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 18,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 20,
+            "url": "/warrantyregistration",
+            "match_url": "/warrantyregistration",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 19,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 21,
+            "url": "/WARRANTY",
+            "match_url": "/warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 20,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 22,
+            "url": "/refer-a-friend",
+            "match_url": "/refer-a-friend",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/friends/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 21,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 23,
+            "url": "/warrany",
+            "match_url": "/warrany",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 22,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 24,
+            "url": "/warrantee",
+            "match_url": "/warrantee",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 23,
+            "last_access": "December 11, 2023",
+            "enabled": true
+        },
+        {
+            "id": 25,
+            "url": "/register warranty",
+            "match_url": "/register%20warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 24,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 26,
+            "url": "/-",
+            "match_url": "/-",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 302,
+            "action_type": "url",
+            "action_data": {
+                "url": "new warranty experience has url of register"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 25,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 27,
+            "url": "/register",
+            "match_url": "/register",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 26,
+            "last_access": "December 7, 2023",
+            "enabled": false
+        },
+        {
+            "id": 28,
+            "url": "/lwarranty",
+            "match_url": "/lwarranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 27,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 29,
+            "url": "/warrranty",
+            "match_url": "/warrranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 28,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 30,
+            "url": "/warrarty",
+            "match_url": "/warrarty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 29,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 31,
+            "url": "/warranty'",
+            "match_url": "/warranty%27",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 30,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 32,
+            "url": "/warrant",
+            "match_url": "/warrant",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 31,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 33,
+            "url": "/warr",
+            "match_url": "/warr",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 32,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 34,
+            "url": "/waranty",
+            "match_url": "/waranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 33,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 35,
+            "url": "/service-area/west-virginia/albright/",
+            "match_url": "/service-area/west-virginia/albright",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 34,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 36,
+            "url": "/service-area/west-virginia/alma/",
+            "match_url": "/service-area/west-virginia/alma",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 35,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 37,
+            "url": "/service-area/west-virginia/anmoore/",
+            "match_url": "/service-area/west-virginia/anmoore",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 36,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 38,
+            "url": "/service-area/west-virginia/arthurdale/",
+            "match_url": "/service-area/west-virginia/arthurdale",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 37,
+            "last_access": "July 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 39,
+            "url": "/service-area/west-virginia/aurora-west-virginia/",
+            "match_url": "/service-area/west-virginia/aurora-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 38,
+            "last_access": "March 9, 2024",
+            "enabled": true
+        },
+        {
+            "id": 40,
+            "url": "/service-area/west-virginia/bretz/",
+            "match_url": "/service-area/west-virginia/bretz",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 39,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 41,
+            "url": "/service-area/west-virginia/bridgeport-west-virginia/",
+            "match_url": "/service-area/west-virginia/bridgeport-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 40,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 42,
+            "url": "/service-area/west-virginia/bruceton-mills/",
+            "match_url": "/service-area/west-virginia/bruceton-mills",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 41,
+            "last_access": "June 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 43,
+            "url": "/service-area/west-virginia/center-point/",
+            "match_url": "/service-area/west-virginia/center-point",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 42,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 44,
+            "url": "/service-area/west-virginia/clarksburg-west-virginia/",
+            "match_url": "/service-area/west-virginia/clarksburg-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 43,
+            "last_access": "August 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 45,
+            "url": "/service-area/west-virginia/eglon/",
+            "match_url": "/service-area/west-virginia/eglon",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 44,
+            "last_access": "August 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 46,
+            "url": "/service-area/west-virginia/enterprise/",
+            "match_url": "/service-area/west-virginia/enterprise",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 45,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 47,
+            "url": "/service-area/west-virginia/flemington/",
+            "match_url": "/service-area/west-virginia/flemington",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 46,
+            "last_access": "May 19, 2024",
+            "enabled": true
+        },
+        {
+            "id": 48,
+            "url": "/service-area/west-virginia/friendly/",
+            "match_url": "/service-area/west-virginia/friendly",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 47,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 49,
+            "url": "/service-area/west-virginia/grafton-west-virginia/",
+            "match_url": "/service-area/west-virginia/grafton-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 48,
+            "last_access": "July 21, 2024",
+            "enabled": true
+        },
+        {
+            "id": 50,
+            "url": "/service-area/west-virginia/gypsy/",
+            "match_url": "/service-area/west-virginia/gypsy",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 49,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 51,
+            "url": "/service-area/west-virginia/haywood/",
+            "match_url": "/service-area/west-virginia/haywood",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 50,
+            "last_access": "January 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 52,
+            "url": "/service-area/west-virginia/hepzibah/",
+            "match_url": "/service-area/west-virginia/hepzibah",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 51,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 53,
+            "url": "/service-area/west-virginia/independence-west-virginia/",
+            "match_url": "/service-area/west-virginia/independence-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 52,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 54,
+            "url": "/service-area/west-virginia/kingwood/",
+            "match_url": "/service-area/west-virginia/kingwood",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 53,
+            "last_access": "March 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 55,
+            "url": "/service-area/west-virginia/lost-creek/",
+            "match_url": "/service-area/west-virginia/lost-creek",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 54,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 56,
+            "url": "/service-area/west-virginia/lumberport/",
+            "match_url": "/service-area/west-virginia/lumberport",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 55,
+            "last_access": "May 31, 2024",
+            "enabled": true
+        },
+        {
+            "id": 57,
+            "url": "/service-area/west-virginia/masontown-west-virginia/",
+            "match_url": "/service-area/west-virginia/masontown-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 56,
+            "last_access": "August 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 58,
+            "url": "/service-area/west-virginia/meadowbrook/",
+            "match_url": "/service-area/west-virginia/meadowbrook",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 57,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 59,
+            "url": "/service-area/west-virginia/middlebourne/",
+            "match_url": "/service-area/west-virginia/middlebourne",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 58,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 60,
+            "url": "/service-area/west-virginia/mount-clare/",
+            "match_url": "/service-area/west-virginia/mount-clare",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 59,
+            "last_access": "July 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 61,
+            "url": "/service-area/west-virginia/new-milton/",
+            "match_url": "/service-area/west-virginia/new-milton",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 60,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 62,
+            "url": "/service-area/west-virginia/newburg/",
+            "match_url": "/service-area/west-virginia/newburg",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 61,
+            "last_access": "August 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 63,
+            "url": "/service-area/west-virginia/reedsville/",
+            "match_url": "/service-area/west-virginia/reedsville",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 62,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 64,
+            "url": "/service-area/west-virginia/reynoldsville-west-virginia/",
+            "match_url": "/service-area/west-virginia/reynoldsville-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 63,
+            "last_access": "September 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 65,
+            "url": "/service-area/west-virginia/rosemont/",
+            "match_url": "/service-area/west-virginia/rosemont",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 64,
+            "last_access": "August 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 66,
+            "url": "/service-area/west-virginia/rowlesburg/",
+            "match_url": "/service-area/west-virginia/rowlesburg",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 65,
+            "last_access": "August 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 67,
+            "url": "/service-area/west-virginia/salem-west-virginia/",
+            "match_url": "/service-area/west-virginia/salem-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 66,
+            "last_access": "August 21, 2024",
+            "enabled": true
+        },
+        {
+            "id": 68,
+            "url": "/service-area/west-virginia/shinnston/",
+            "match_url": "/service-area/west-virginia/shinnston",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 67,
+            "last_access": "June 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 69,
+            "url": "/service-area/west-virginia/shirley/",
+            "match_url": "/service-area/west-virginia/shirley",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 68,
+            "last_access": "September 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 70,
+            "url": "/service-area/west-virginia/simpson/",
+            "match_url": "/service-area/west-virginia/simpson",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 69,
+            "last_access": "August 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 71,
+            "url": "/service-area/west-virginia/sistersville/",
+            "match_url": "/service-area/west-virginia/sistersville",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 70,
+            "last_access": "July 22, 2024",
+            "enabled": true
+        },
+        {
+            "id": 72,
+            "url": "/service-area/west-virginia/smithburg/",
+            "match_url": "/service-area/west-virginia/smithburg",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 71,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 73,
+            "url": "/service-area/west-virginia/spelter/",
+            "match_url": "/service-area/west-virginia/spelter",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 72,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 74,
+            "url": "/service-area/west-virginia/terra-alta/",
+            "match_url": "/service-area/west-virginia/terra-alta",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 73,
+            "last_access": "April 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 75,
+            "url": "/service-area/west-virginia/thornton-west-virginia/",
+            "match_url": "/service-area/west-virginia/thornton-west-virginia",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 74,
+            "last_access": "February 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 76,
+            "url": "/service-area/west-virginia/tunnelton/",
+            "match_url": "/service-area/west-virginia/tunnelton",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://lwww.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 75,
+            "last_access": "March 23, 2024",
+            "enabled": true
+        },
+        {
+            "id": 77,
+            "url": "/service-area/west-virginia/wallace/",
+            "match_url": "/service-area/west-virginia/wallace",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 76,
+            "last_access": "August 6, 2024",
+            "enabled": true
+        },
+        {
+            "id": 78,
+            "url": "/service-area/west-virginia/west-milford/",
+            "match_url": "/service-area/west-virginia/west-milford",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 77,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 79,
+            "url": "/service-area/west-virginia/west-union/",
+            "match_url": "/service-area/west-virginia/west-union",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 78,
+            "last_access": "February 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 80,
+            "url": "/service-area/west-virginia/wyatt/",
+            "match_url": "/service-area/west-virginia/wyatt",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 79,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 81,
+            "url": "/warranty",
+            "match_url": "/warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/register/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 80,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 82,
+            "url": "/leaf-home-safety-solutions-licenses/",
+            "match_url": "/leaf-home-safety-solutions-licenses",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/licenses/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 81,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 83,
+            "url": "/trustpilot/",
+            "match_url": "/trustpilot",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.trustpilot.com/evaluate/www.leafhomesafetysolutions.com"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 82,
+            "last_access": "December 20, 2023",
+            "enabled": true
+        },
+        {
+            "id": 84,
+            "url": "^/tub/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/walk-in-tubs/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 83,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 85,
+            "url": "^/lift/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/discover/stair-lifts/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 84,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 86,
+            "url": "^/shower/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/discover/tub-to-shower/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 85,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 87,
+            "url": "/recruitingQR/",
+            "match_url": "/recruitingqr",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/careers/installers/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 86,
+            "last_access": "July 20, 2024",
+            "enabled": true
+        },
+        {
+            "id": 88,
+            "url": "/installer/",
+            "match_url": "/installer",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/careers/installers/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 87,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 89,
+            "url": "/nuedge/",
+            "match_url": "/nuedge",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 78,
+            "regex": false,
+            "group_id": 1,
+            "position": 88,
+            "last_access": "September 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 91,
+            "url": "/discover/lf-base-template/",
+            "match_url": "/discover/lf-base-template",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/call-today/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 90,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 92,
+            "url": "/yelp/",
+            "match_url": "/yelp",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/discover/?utm_source=41DY&utm_campaign=yelp-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 269,
+            "regex": false,
+            "group_id": 1,
+            "position": 91,
+            "last_access": "September 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 93,
+            "url": "/promo/oasis/",
+            "match_url": "/promo/oasis",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/promo/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 92,
+            "last_access": "March 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 94,
+            "url": "/discover/oasis/",
+            "match_url": "/discover/oasis",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 97,
+            "regex": false,
+            "group_id": 1,
+            "position": 93,
+            "last_access": "September 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 95,
+            "url": "/discover/call-today/",
+            "match_url": "/discover/call-today",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 12,
+            "regex": false,
+            "group_id": 1,
+            "position": 94,
+            "last_access": "August 26, 2024",
+            "enabled": true
+        },
+        {
+            "id": 96,
+            "url": "/terms-of-use/",
+            "match_url": "/terms-of-use",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhome.com/terms-of-use/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 612,
+            "regex": false,
+            "group_id": 1,
+            "position": 94,
+            "last_access": "September 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 97,
+            "url": "/gobrowns/",
+            "match_url": "/gobrowns",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomesafetysolutions.com/?utm_source=1946w&utm_medium=yext&utm_campaign=listings&y_source=1_MTkwMzIyODYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 36,
+            "regex": false,
+            "group_id": 1,
+            "position": 95,
+            "last_access": "August 14, 2024",
+            "enabled": false
+        },
+        {
+            "id": 98,
+            "url": "/gobrowns/",
+            "match_url": "/gobrowns",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/go-browns/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 2,
+            "position": 0,
+            "last_access": "August 14, 2024",
+            "enabled": false
+        },
+        {
+            "id": 99,
+            "url": "/go-browns/",
+            "match_url": "/go-browns",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/gobrowns/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 2,
+            "position": 1,
+            "last_access": "August 16, 2024",
+            "enabled": true
+        }
+    ]
+}
