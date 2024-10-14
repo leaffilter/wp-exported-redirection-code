@@ -1,0 +1,10 @@
+[
+    {
+        "vanityURL": "/bloom/",
+        "destinationURL": "/promo/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=print-15&legacy_redirect"
+    },
+    {
+        "vanityURL": "/glc/",
+        "destinationURL": "https://www.leaffilter.ca/promo/summertime/?utm_source=280w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    }
+]

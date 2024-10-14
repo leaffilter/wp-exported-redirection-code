@@ -11,12 +11,6 @@ async function main() {
   });
 
   const outputDirectory = './output';
-  // if (fs.existsSync(outputDirectory)) {
-  //   fs.rm(outputDirectory, { recursive: true, force: true}, (error) => {
-  //     console.log(error);
-  //   });
-  //   console.log('--- main: folder removed - ', outputDirectory);
-  // }
   if (!fs.existsSync(outputDirectory)) {
     fs.mkdirSync(outputDirectory);
     console.log('--- main: folder created - ', outputDirectory);
@@ -66,19 +60,6 @@ async function main() {
         continue;
       }
 
-      /*
-        {
-          "type": "redirect",
-          "timestamp": "2024-08-26T20:05:15.966Z",
-          "redirect": "/testing-3/",
-          "userdata": {
-            "id": "bob.fornal@leafhome.com",
-            "name": "Fornal, Bob",
-            "email": "bob.fornal@leafhome.com"
-          }
-        }
-      */
-      // destination = destination.replace(`https://${domain}`, '');
       const value = {
         type: 'redirect',
         timestamp: getTimestamp(),
@@ -89,11 +70,11 @@ async function main() {
           email: 'none',
         }
       };
+      const stringifiedValue = JSON.stringify(value);
       const object = {
-        name: vanity,
-        // vanityURL: vanity,
-        // destinationURL: destination,
-        value: value,
+        base64: false,
+        key: vanity,
+        value: stringifiedValue,
         metadata: value,
       };
       output.push(object);
@@ -127,7 +108,7 @@ function handleVanity(vanity, regex) {
 }
 
 function getDomain(filename) {
-  const regex = /www-[a-z]+-com/i;
+  const regex = /www-[a-z]+-(com|ca)/i;
   const result = regex.exec(filename);
   return result[0].replaceAll('-', '.');
 }
