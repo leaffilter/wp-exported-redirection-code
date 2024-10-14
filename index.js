@@ -39,6 +39,7 @@ async function main() {
         issues.push({
           vanityURL: vanity,
           destinationURL: destination,
+          type: 'IMPROPER VANITY URL',
         });
         continue;
       }
@@ -47,6 +48,7 @@ async function main() {
         issues.push({
           vanityURL: vanity,
           destinationURL: destination,
+          type: 'IMPROPER DESTINATION URL',
         });
         continue;
       }
@@ -77,8 +79,15 @@ async function main() {
         value: stringifiedValue,
         metadata: value,
       };
-      output.push(object);
-
+      if (isDuplicate(object, output) === false) {
+        output.push(object);
+      } else {
+        issues.push({
+          vanityURL: object.key,
+          destinationURL: object.metadata.redirect,
+          type: 'DUPLICATE',
+        })
+      }
     }
     console.log('---- file: processed', file);
 
@@ -92,16 +101,31 @@ async function main() {
 }
 main();
 
+function isDuplicate(object, output) {
+  let duplicate = false;
+  for (let i = 0, len = output.length; i < len; i++) {
+    if (output[i].key === object.key) {
+      duplicate = true;
+      break;
+    }
+  }
+  return duplicate;
+}
+
 function handleVanity(vanity, regex) {
   let result = vanity;
   let altVanity = result.replace(/^\^/, '');
   if (regex.exec(altVanity) !== null && result !== altVanity) {
     result = altVanity;
   }
-  if (result.at(-1) !== '/') {
+  if (result.substr(result.length - 4) === '.php') {
+    console.log(result);
+    result = altVanity;
+  } else if (result.at(-1) !== '/') {
     altVanity = altVanity + '/';
     if (regex.exec(altVanity) !== null) {
       result = altVanity;
+      // console.log(result);
     }
   }
   return result;

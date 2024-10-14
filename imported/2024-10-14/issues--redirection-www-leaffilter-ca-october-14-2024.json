@@ -1,167 +1,77 @@
 [
     {
-        "base64": false,
-        "key": "/about/leaffilter-gutter-guard-awards-affiliations/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/leaffilter-awards/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/leaffilter-awards/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about/leaffilter-gutter-guard-awards-affiliations/(.*?)",
+        "destinationURL": "/about/leaffilter-awards/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about/leaffilter-gutter-guard-installation/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/installation/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/installation/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about/leaffilter-gutter-guard-installation/(.*?)",
+        "destinationURL": "/about/installation/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about/leaffilter-gutter-guard-reviews/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/leaffilter-reviews/homeowner-reviews/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/leaffilter-reviews/homeowner-reviews/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about/leaffilter-gutter-guard-reviews/(.*?)",
+        "destinationURL": "/leaffilter-reviews/homeowner-reviews/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about/leaffilter-installation/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/installation/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/installation/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about/leaffilter-installation/(.*?)",
+        "destinationURL": "/about/installation/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about/leaffilter-reviews/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/leaffilter-reviews/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/leaffilter-reviews/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about/leaffilter-reviews/(.*?)",
+        "destinationURL": "/leaffilter-reviews/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about-leaf-filter/leaffilter-affiliations-endorsements(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/leaffilter-awards/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/leaffilter-awards/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about-leaf-filter/leaffilter-affiliations-endorsements(.*?)",
+        "destinationURL": "/about/leaffilter-awards/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about-leaffilter/leaffilter-awards-affiliations(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/leaffilter-awards/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/leaffilter-awards/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about-leaffilter/leaffilter-awards-affiliations(.*?)",
+        "destinationURL": "/about/leaffilter-awards/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/affiliations/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/leaffilter-awards/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/leaffilter-awards/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/affiliations/(.*?)",
+        "destinationURL": "/about/leaffilter-awards/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about-leaffilter-gutter-guards/leaffilter-guarantee(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/why-leaffilter/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/why-leaffilter/warranty/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about-leaffilter-gutter-guards/leaffilter-guarantee(.*?)",
+        "destinationURL": "/about/why-leaffilter/warranty/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/about-leaffilter-gutter-guards/how-leaffilter-gutter-guards-works/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/about/how-leaffilter-works/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/about/how-leaffilter-works/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/about-leaffilter-gutter-guards/how-leaffilter-gutter-guards-works/(.*?)",
+        "destinationURL": "/about/how-leaffilter-works/",
+        "type": "IMPROPER VANITY URL"
     },
     {
-        "base64": false,
-        "key": "/reviews/leaffilter-gutter-protection-reviews-from-homeowners/(.*?)/",
-        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-14T15:03:49.279Z\",\"redirect\":\"/leaffilter-reviews/homeowner-reviews/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
-        "metadata": {
-            "type": "redirect",
-            "timestamp": "2024-10-14T15:03:49.279Z",
-            "redirect": "/leaffilter-reviews/homeowner-reviews/",
-            "userdata": {
-                "id": "system-event",
-                "name": "Automated Process",
-                "email": "none"
-            }
-        }
+        "vanityURL": "/reviews/leaffilter-gutter-protection-reviews-from-homeowners/(.*?)",
+        "destinationURL": "/leaffilter-reviews/homeowner-reviews/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "/review_toronto/",
+        "destinationURL": "https://www.homestars.com/companies/2891500-leaffilter-gutter-protection-toronto/reviews/new",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/review_london/",
+        "destinationURL": "https://www.homestars.com/companies/2892714-leaffilter-gutter-protection-london/reviews/new",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/discover/dv/",
+        "destinationURL": "/discover/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/solved/",
+        "destinationURL": "https://www.leaffilter.ca/promo/bloom/",
+        "type": "DUPLICATE"
     }
 ]
