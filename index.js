@@ -27,7 +27,7 @@ async function main() {
     const issues = [];
     for (let i = 0, len = json.redirects.length; i < len; i++) {
       const item = json.redirects[i];
-      const regex = /^\/[a-zA-Z0-9\-]+\/.*/i;
+      const regex = /^[^()*]+$/i;
 
       let destination = item.action_data.url;
 
@@ -42,8 +42,8 @@ async function main() {
         });
         continue;
       }
-      // does the destination have incorrect pattern or not start with domain in filename
-      if(regex.exec(destination) === null && !destination.startsWith(`https://${domain}`)) {
+      // does the destination have incorrect pattern
+      if(regex.exec(destination) === null) {
         issues.push({
           vanityURL: vanity,
           destinationURL: destination,
