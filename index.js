@@ -119,7 +119,6 @@ function handleVanity(vanity, regex) {
     result = altVanity;
   }
   if (result.substr(result.length - 4) === '.php') {
-    console.log(result);
     result = altVanity;
   } else if (result.at(-1) !== '/') {
     altVanity = altVanity + '/';
