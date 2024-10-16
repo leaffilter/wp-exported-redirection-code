@@ -1,0 +1,22 @@
+[
+    {
+        "vanityURL": "^/friends(/.*)?$",
+        "destinationURL": "https://www.leafhomesafetysolutions.com/refer/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "/warranty/",
+        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/waranty/",
+        "destinationURL": "https://www.leafhomesafetysolutions.com/warranty/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/warranty/",
+        "destinationURL": "/register/",
+        "type": "DUPLICATE"
+    }
+]

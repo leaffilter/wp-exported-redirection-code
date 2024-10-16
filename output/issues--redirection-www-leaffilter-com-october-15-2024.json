@@ -1,0 +1,187 @@
+[
+    {
+        "vanityURL": "/learn-more/angies-list/",
+        "destinationURL": "https://www.leaffilter.com/discover/?utm_source=41DAL&utm_medium=AngiesList&utm_campaign=AL_Profile&lf_dc=angieslist&legacy_redirect",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/friends/",
+        "destinationURL": "https://www.leaffilter.com/friends",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/warranty/",
+        "destinationURL": "https://www.leaffilter.com/warranty/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/waranty/",
+        "destinationURL": "https://www.leaffilter.com/warranty/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/clearlake-california/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/clearlake-oaks/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/clearlake-park/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/cobb-california/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/finley-california/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/glenhaven/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/hidden-valley-lake/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/kelseyville/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/lakeport/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/lower-lake/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/lucerne-california/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/middletown-california/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/nice/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/upper-lake/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/california/witter-springs/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/service-area/washington/clallam-bay/",
+        "destinationURL": "https://www.leaffilter.com/locations/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/warranty/",
+        "destinationURL": "https://www.leaffilter.com/register/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/friends/",
+        "destinationURL": "https://www.leaffilter.com/refer/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "^\\/discover\\/(?!discover-gravity|privacy|terms|finance)[a-z0-9-\\/]{1,}((\\?.*)?)",
+        "destinationURL": "/discover/discover-gravity/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "/discover/discover-yahoo-verizon-copy/",
+        "destinationURL": "/discover/ya/ya-gf-psp/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "^/service-area(.*)",
+        "destinationURL": "/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "/spring/",
+        "destinationURL": "https://www.leaffilter.com/promo/bloom/?utm_source=10w&utm_medium=postcard&utm_content=evergreen&utm_campaign=vanityurl-nd&lf_dc=save-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/fsmsolved/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=165w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/thmautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/ready-for-fall/?utm_source=35w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/valpakautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/Autumn/?utm_source=20w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/amagautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/Autumn/?utm_source=272w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/ccouponautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/Autumn/?utm_source=508w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/pnmautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/Autumn/?utm_source=461w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/amagautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/ready-for-fall/?utm_source=272w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/ccouponautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/Autumn/?utm_source=508w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/pnmautumn/",
+        "destinationURL": "https://www.leaffilter.com/promo/Autumn/?utm_source=461w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/day/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=Radio&utm_content=evergreen&utm_campaign=VanityURL-DAY-ND&if_dc=save-15",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/iheart/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=Radio&utm_content=evergreen&utm_campaign=VanityURL-IHEART-ND&if_dc=save-15",
+        "type": "DUPLICATE"
+    }
+]

@@ -27,9 +27,18 @@ async function main() {
     const issues = [];
     for (let i = 0, len = json.redirects.length; i < len; i++) {
       const item = json.redirects[i];
-      const regex = /^[^()*]+$/i;
+      const regex = /^[^()\^*]+$/i;
 
       let destination = item.action_data.url;
+
+      if (item.url.toLowerCase().at(0) === '^' && item.url.toLowerCase().at(-1) === '?') {
+        issues.push({
+          vanityURL: item.url.toLowerCase(),
+          destinationURL: destination,
+          type: 'IMPROPER VANITY URL',
+        });
+        continue;
+      }
 
       // can it be fixed by removing ^ at beginning and/or adding a slash at end
       let vanity = handleVanity(item.url.toLowerCase(), regex);
@@ -91,6 +100,9 @@ async function main() {
     }
     console.log('---- file: processed', file);
 
+    if (output.length > 1000) {
+      saveInThousands(path.join(outputDirectory, file), output, 'utf8');
+    }
     fs.writeFileSync(path.join(outputDirectory, file), JSON.stringify(output, null, 4), 'utf8');
     fs.writeFileSync(path.join(outputDirectory, 'disabled--' + file), JSON.stringify(disabled, null, 4), 'utf8');
     fs.writeFileSync(path.join(outputDirectory, 'issues--' + file), JSON.stringify(issues, null, 4), 'utf8');
@@ -100,6 +112,29 @@ async function main() {
   });
 }
 main();
+
+function saveInThousands(filename_and_path, output, type) {
+  const splitWeight = 500;
+  let length = output.length;
+  let counter = 1;
+
+  while (length > 0) {
+    let subset;
+    if (length <= splitWeight) {
+      subset = output;
+      output = [];
+    } else {
+      subset = output.slice(0, splitWeight);
+      output = output.slice(splitWeight);
+    }
+    const adjustedFileAndPath = filename_and_path.replace('.json', `--${counter.toString().padStart(2, '0')}.json`);
+    console.log('===== file: ', `version--${counter.toString().padStart(2, '0')}, records:`, subset.length);
+    counter = counter + 1;
+
+    fs.writeFileSync(adjustedFileAndPath, JSON.stringify(subset, null, 4), type);
+    length = output.length;
+  }
+}
 
 function isDuplicate(object, output) {
   let duplicate = false;

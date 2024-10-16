@@ -1,0 +1,1982 @@
+[
+    {
+        "base64": false,
+        "key": "/warrenty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warranty-registration/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/waranty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/leafhomewatersolutions-warranty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/referral/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/friends/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/friends/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/refer/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/friends/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/friends/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/wwaarranty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warrantyregistration/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/refer-a-friend/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/friends/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/friends/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warrany/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warrantee/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/register warranty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warranty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/register/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/register/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warrranty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warrarty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warranty'/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warrant/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warr/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/terms-of-use-2/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/covid/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/covid/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warranty register/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/warranty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/warranty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/solutions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/products/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/products/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/process/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/about/installation/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/about/installation/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/frequently-asked-questions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/faq/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/faq/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/frequently-asked-questions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/resources/faq/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/resources/faq/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discovery/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/product/water-softeners/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/products/water-softener/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/products/water-softener/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/product/water-softener/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/products/water-softener/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/products/water-softener/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/how-tos/how-to-make-snow-ice-safe-for-drinking/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/how-to-make-snow-ice-safe-for-drinking/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/how-to-make-snow-ice-safe-for-drinking/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/how-tos/how-do-i-know-if-i-have-hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/how-do-i-know-if-i-have-hard-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/how-do-i-know-if-i-have-hard-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/how-tos/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/how-tos/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/how-tos/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/hard-water-101/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/hard-water-101/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/s/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/hard-water-101/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/hard-water-101/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/hard-water-101/city-water-vs-well-water-why-it-matters/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/hard-water-101/city-water-vs-well-water-why-it-matters/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/hard-water-101/are-water-solutions-right-for-me/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/hard-water-101/are-water-solutions-right-for-me/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/hard-water-101/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/hard-water-101/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/ask-the-experts/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/ask-the-experts/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/ask-the-experts/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/leaf-home-culture/sustainability/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/sustainability/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/sustainability/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/sustainability/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/sustainability/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/are-water-solutions-right-for-me/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/are-water-solutions-right-for-me/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/how-tos/how-to-make-snow-ice-safe-for-drinking/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/how-to-make-snow-ice-safe-for-drinking/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/how-to-make-snow-ice-safe-for-drinking/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/water-softening-and-filtration/filtered-water-not-just-for-humans/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/filtered-water-not-just-for-humans/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/filtered-water-not-just-for-humans/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/hard-water-101/how-do-i-know-if-i-have-hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/how-do-i-know-if-i-have-hard-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/how-do-i-know-if-i-have-hard-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/hard-water-101/hard-water-beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/hard-water-beauty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/hard-water-beauty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/ask-the-experts/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/city-water-vs-well-water-why-it-matters/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/city-water-vs-well-water-why-it-matters/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/leaf-home-culture/employee-culture/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/leaf-home-culture/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/innovative-products/water-softening-and-filtration/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/home-and-health/filtered-water-not-just-for-humans/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/filtered-water-not-just-for-humans/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/filtered-water-not-just-for-humans/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/home-and-health/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/beauty/hard-water-beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/hard-water-beauty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/hard-water-beauty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about-us/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/about/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/about/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about-us/l/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/about/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/about/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about-us/faq/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/resources/faq/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/resources/faq/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/150ff/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/savenow/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner:on\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner:on",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/save/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=300-offer&legacy_redirect&utm_content=banner:on\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=300-offer&legacy_redirect&utm_content=banner:on",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/water-solutions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/better-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/better-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/elementor-20277/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/sms-policy/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/sms-policy/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/contact/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/about/contact/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/about/contact/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/6-hard-water-signs/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/6-signs-hard-water-problems/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/6-signs-hard-water-problems/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover-3/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/black-friday/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/black-friday/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/yelp/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/?utm_source=41DY&utm_campaign=yelp-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/?utm_source=41DY&utm_campaign=yelp-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/lhss-base-styles/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/lhws-base-styles/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/lhws-base-styles/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/thank-you-2/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/thank-you-product/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/thank-you-product/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/water-softeners/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/products/water-softeners/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/products/water-softeners/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/careers/call-center-representative/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://web.fountain.com/c/leaf-home/sean-loboda/picker\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://web.fountain.com/c/leaf-home/sean-loboda/picker",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/careers/sales/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://web.fountain.com/c/leaf-home/sean-loboda/picker\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://web.fountain.com/c/leaf-home/sean-loboda/picker",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/careers/installation/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://web.fountain.com/c/leaf-home/sean-loboda/picker\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://web.fountain.com/c/leaf-home/sean-loboda/picker",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/privacy-policy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://privacy.leafhome.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://privacy.leafhome.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/5-steps/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover-2/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/quality-2/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/quality/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/discover/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/discover-new-duplicate-19882/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/discover-new-ec/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/ugc/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-do-i-know-if-i-have-hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/how-do-i-know-if-i-have-hard-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/how-do-i-know-if-i-have-hard-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-celebrate-national-water-quality-month/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/how-to-celebrate-national-water-quality-month/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/how-to-celebrate-national-water-quality-month/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-declutter-your-home/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/how-to-declutter-your-home/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/how-to-declutter-your-home/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-maintain-your-water-softener-7-essential-tips/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/how-to-maintain-your-water-softener-7-essential-tips/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/how-to-maintain-your-water-softener-7-essential-tips/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/rotten-egg-smell-sulfur-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/rotten-egg-smell-sulfur-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/rotten-egg-smell-sulfur-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-make-snow-ice-safe-for-drinking/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/how-to-make-snow-ice-safe-for-drinking/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/how-to-make-snow-ice-safe-for-drinking/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/most-common-types-of-water-treatment/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/most-common-types-of-water-treatment/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/most-common-types-of-water-treatment/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/reverse-osmosis-how-it-works/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/reverse-osmosis-how-it-works/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/reverse-osmosis-how-it-works/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/beauty/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/sustainability/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/sustainability/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/the-hard-truth-how-do-salt-free-water-softeners-work/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/the-hard-truth-how-do-salt-free-water-softeners-work/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/the-hard-truth-how-do-salt-free-water-softeners-work/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/the-worlds-universal-solvent/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/the-worlds-universal-solvent/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/the-worlds-universal-solvent/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-and-health/water-quality-the-importance-of-home-water-testing/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/ask-the-experts/water-quality-the-importance-of-home-water-testing/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/ask-the-experts/water-quality-the-importance-of-home-water-testing/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-and-health/a-checklist-get-your-home-ready-for-sale/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/ask-the-experts/a-checklist-get-your-home-ready-for-sale/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/ask-the-experts/a-checklist-get-your-home-ready-for-sale/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/are-water-solutions-right-for-me/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/are-water-solutions-right-for-me/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/can-drinking-water-help-you-lose-weight/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/can-drinking-water-help-you-lose-weight/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/can-drinking-water-help-you-lose-weight/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/city-water-vs-well-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/ask-the-experts/city-water-vs-well-water/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/ask-the-experts/city-water-vs-well-water/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/city-water-vs-well-water-why-it-matters/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/city-water-vs-well-water-why-it-matters/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/ask-the-experts/consumer-water-survey-reveals-home-water-testing-gap/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/home-and-health/consumer-water-survey-reveals-home-water-testing-gap/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/home-and-health/consumer-water-survey-reveals-home-water-testing-gap/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/filtered-water-not-just-for-humans/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/filtered-water-not-just-for-humans/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/filtered-water-not-just-for-humans/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/6-signs-hard-water-problems/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/6-signs-hard-water-problems/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/6-signs-hard-water-problems/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/blog/water-softening-and-filtration/hard-water-beauty/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/blog/water-softening-and-filtration/hard-water-beauty/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/black-friday/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/better-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/screen/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/promo-reverse-osmosis-system-www/?utm_source=99\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/promo-reverse-osmosis-system-www/?utm_source=99",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/facebook/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=facebook-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=facebook-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/instagram/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=instagram-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=instagram-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tiktok/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=tiktok-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=tiktok-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/betterwatertogethercampaign/tampa/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/better-water-together-tampa/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/better-water-together-tampa/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/betterwatertogethercampaign/cleveland/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/better-water-together-cleveland/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/better-water-together-cleveland/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/betterwatertogethercampaign/detroit/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/better-water-together-detroit/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/better-water-together-detroit/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/betterwatertogethercampaign/houston/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/better-water-together-houston/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/better-water-together-houston/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/valpak15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=20w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=20w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/news15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=463w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=463w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/flyer15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=464w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=464w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/bestpick15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=BESTPICKw&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=BESTPICKw&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/fivestar15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=FIVESTARw&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=FIVESTARw&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/mswi15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=462w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=462w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/cc15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=457w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=457w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/cq15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=108w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=108w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/hc15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=278w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=278w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/thm15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=35w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=35w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/ml15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=513w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=513w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/mme15off/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/?utm_source=59w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/?utm_source=59w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/clean/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/refresh/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/safe/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/go-browns/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/gobrowns/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/gobrowns/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/solve/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/hydrate/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/pure/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/home/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/simplisafe-sales/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/registersimplisafe/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/registersimplisafe/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    }
+]

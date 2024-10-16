@@ -1,0 +1,108 @@
+[
+    {
+        "vanityURL": "^/save15/?",
+        "destinationURL": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/15off/?",
+        "destinationURL": "/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/clipper/?",
+        "destinationURL": "/discover/?utm_source=17&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/moneymailer/?",
+        "destinationURL": "/discover/?utm_source=59&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/newspaper/?",
+        "destinationURL": "/discover/?utm_source=60&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/mailercard/?",
+        "destinationURL": "/discover/?utm_source=296&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/mspark/?",
+        "destinationURL": "/discover/?utm_source=289&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/save/?",
+        "destinationURL": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=300-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/savenow/?",
+        "destinationURL": "/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=300-offer&legacy_redirect",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/friends(/.*)?$",
+        "destinationURL": "/refer/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/mailcard/?",
+        "destinationURL": "/discover/?utm_source=62&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/15/?",
+        "destinationURL": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/mailecard/?",
+        "destinationURL": "/discover/?utm_source=61&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/mailcoupon/?",
+        "destinationURL": "/discover/?utm_source=283&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/mailer/?",
+        "destinationURL": "/discover/?utm_source=282&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/smartsource/?",
+        "destinationURL": "/discover/?utm_source=284&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "/warranty/",
+        "destinationURL": "/register/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/blog/home-and-health/water-quality-the-importance-of-home-water-testing/",
+        "destinationURL": "/blog/ask-the-experts/water-quality-the-importance-of-home-water-testing/",
+        "type": "DUPLICATE"
+    },
+
+    {
+        "base64": false,
+        "key": "/ discover/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-15T14:11:29.584Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-15T14:11:29.584Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    }
+]

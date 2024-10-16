@@ -1,0 +1,7 @@
+[
+    {
+        "vanityURL": "/screen/?(?:\\?(.*))?$",
+        "destinationURL": "https://get.leafhomewatersolutions.com/screen/?utm_source=99",
+        "type": "IMPROPER VANITY URL"
+    }
+]

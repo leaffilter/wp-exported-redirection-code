@@ -1,0 +1,46 @@
+[
+    {
+        "vanityURL": "/blog/water-faqs/",
+        "destinationURL": "/blog/"
+    },
+    {
+        "vanityURL": "/blog/innovative-products/",
+        "destinationURL": "/blog/"
+    },
+    {
+        "vanityURL": "/blog/benefits-of-better-water/",
+        "destinationURL": "/blog/"
+    },
+    {
+        "vanityURL": "/thank-you-product/",
+        "destinationURL": "/thank-you-2/"
+    },
+    {
+        "vanityURL": "/discover/gd-www/protect-your-home-www/",
+        "destinationURL": "https://get.leafhomewatersolutions.com/discover/gd/protect-your-home/"
+    },
+    {
+        "vanityURL": "/discover/pfas-www/",
+        "destinationURL": "https://get.leafhomewatersolutions.com/discover/pfas/"
+    },
+    {
+        "vanityURL": "/clean/",
+        "destinationURL": "https://www.leafhomewatersolutions.com/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/refresh/",
+        "destinationURL": "https://www.leafhomewatersolutions.com/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/safe/",
+        "destinationURL": "https://www.leafhomewatersolutions.com/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/gobrowns/",
+        "destinationURL": "https://www.leafhomewatersolutions.com/?utm_source=1946w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer"
+    },
+    {
+        "vanityURL": "/gobrowns/",
+        "destinationURL": "/go-browns/"
+    }
+]

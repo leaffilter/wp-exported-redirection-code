@@ -1,0 +1,238 @@
+[
+    {
+        "vanityURL": "/valpak/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=20w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/friends/",
+        "destinationURL": "https://www.leaffilter.com/refer/"
+    },
+    {
+        "vanityURL": "/locations/",
+        "destinationURL": "https://www.leaffilter.com/purchase/locations/"
+    },
+    {
+        "vanityURL": "/why-leaffilter/compare/gutter-helmet/",
+        "destinationURL": "https://www.leaffilter.com/why-leaffilter/compare/gutter-helmet/"
+    },
+    {
+        "vanityURL": "/discover/yahoo/",
+        "destinationURL": "/discover/ya/"
+    },
+    {
+        "vanityURL": "/discover/fb/",
+        "destinationURL": "/discover/facebook/"
+    },
+    {
+        "vanityURL": "/discover/gd/",
+        "destinationURL": "/discover/googlediscovery/"
+    },
+    {
+        "vanityURL": "/discover/nd/",
+        "destinationURL": "/discover/nextdoor/"
+    },
+    {
+        "vanityURL": "/discover/$/",
+        "destinationURL": "/discover/discover-gravity/"
+    },
+    {
+        "vanityURL": "/discover/fb/b/",
+        "destinationURL": "/discover/fb/2-2/"
+    },
+    {
+        "vanityURL": "/discover/fb/2-2/",
+        "destinationURL": "/discover/fb/1b/"
+    },
+    {
+        "vanityURL": "/discover/fb-sa/",
+        "destinationURL": "/discover/fb-sa-no/"
+    },
+    {
+        "vanityURL": "/save/",
+        "destinationURL": "/discover/pricing/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=fall-event"
+    },
+    {
+        "vanityURL": "/spring/",
+        "destinationURL": "https://www.leaffilter.com/promo/ready-for-spring/?utm_source=10w&utm_medium=postcard&utm_content=spring-cleaning&utm_campaign=VanityUrl-ND&lf_dc=save-15"
+    },
+    {
+        "vanityURL": "/bloom/",
+        "destinationURL": "https://www.leaffilter.com/promo/ready-for-spring/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=print-15&legacy_redirect"
+    },
+    {
+        "vanityURL": "/wildfire/",
+        "destinationURL": "https://www.leaffilter.com/promo/fire/?utm_source=88w&utm_medium=print&utm_content=fire&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/vpdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=88w&utm_medium=print&utm_content=water-damage&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/solved/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=88w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/spring/",
+        "destinationURL": "https://www.leaffilter.com/promo/ready-for-spring/?utm_source=10w&utm_medium=post&utm_campaign=VanityUrl-ND&lf_dc=print-15&legacy_redirect"
+    },
+    {
+        "vanityURL": "/bloom/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=88w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/labor-day/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=10w&utm_medium=postcard&utm_content=labor-day&utm_campaign=VanityUrl-ND&lf_dc=save-15"
+    },
+    {
+        "vanityURL": "/hcdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=278w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/hpgdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=338w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/pcdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=221w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/columbiadamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=503w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/mbdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=504w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/gtdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=505w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/clipperdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=17w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/mintmagdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=506w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/mmedamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=59w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/moneypagesdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=222w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-15"
+    },
+    {
+        "vanityURL": "/ltmdamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=400w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-16"
+    },
+    {
+        "vanityURL": "/myhomedamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=339w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityUrl-ND&lf_dc=print-17"
+    },
+    {
+        "vanityURL": "/cnn/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-CNN-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/sean/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-SEAN-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/hcsolved/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=278w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/bgjlsolved/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=501w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/wgjlsolved/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=502w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/yaydamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=510w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/mldamage/",
+        "destinationURL": "https://www.leaffilter.com/promo/water-damage-promo/?utm_source=513w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/clay/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-CLAY-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/buck/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-BUCK-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/raven/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-RAVEN-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/bubba/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-BUBBA-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/dede/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-DEDE-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/wwli/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-WWLI-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/hannity/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-HANNITY-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/sean/",
+        "destinationURL": "https://www.leaffilter.com/discover/radio-1/?utm_source=91&utm_medium=radio&utm_content=evergreen&utm_campaign=VanityURL-SEAN-ND&if_dc=save-15"
+    },
+    {
+        "vanityURL": "/gobrowns/",
+        "destinationURL": "https://www.leaffilter.com/promo/pros/?utm_source=519w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/directlaborday/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=128w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/thmlaborday/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=35w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/cjpclaborday/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=484w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/jnclelaborday/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=459w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/jncollaborday/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=479w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/mamlaborday/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=262w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/hpglaborday/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=338w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/gobrowns/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=1946w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/gobrowns/",
+        "destinationURL": "https://www.leaffilter.com/promo/labor-day/?utm_source=Browns1946w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    },
+    {
+        "vanityURL": "/bulletin/",
+        "destinationURL": "https://www.leaffilter.com/promo//?utm_source=AARP540w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+    }
+]

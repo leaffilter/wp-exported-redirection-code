@@ -1,0 +1,4238 @@
+{
+    "plugin": {
+        "version": "5.4.2",
+        "date": "Tue, 15 Oct 2024 13:40:37 +0000"
+    },
+    "groups": [
+        {
+            "id": 1,
+            "name": "Redirections",
+            "redirects": 155,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "name": "Modified Posts",
+            "redirects": 7,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        }
+    ],
+    "redirects": [
+        {
+            "id": 1,
+            "url": "^/save15/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": true,
+            "group_id": 1,
+            "position": 0,
+            "last_access": "June 18, 2024",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "url": "^/15off/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 214,
+            "regex": true,
+            "group_id": 1,
+            "position": 1,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "url": "^/clipper/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=17&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 2,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 4,
+            "url": "^/moneymailer/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=59&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 3,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 5,
+            "url": "^/newspaper/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=60&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 4,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 6,
+            "url": "^/mailercard/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=296&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 13,
+            "regex": true,
+            "group_id": 1,
+            "position": 5,
+            "last_access": "September 3, 2024",
+            "enabled": true
+        },
+        {
+            "id": 7,
+            "url": "^/mspark/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=289&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": true,
+            "group_id": 1,
+            "position": 6,
+            "last_access": "September 3, 2024",
+            "enabled": true
+        },
+        {
+            "id": 8,
+            "url": "^/save/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=300-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 12,
+            "regex": true,
+            "group_id": 1,
+            "position": 7,
+            "last_access": "October 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 9,
+            "url": "^/savenow/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=300-offer&legacy_redirect"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 8,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 10,
+            "url": "/warrenty",
+            "match_url": "/warrenty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 146,
+            "regex": false,
+            "group_id": 1,
+            "position": 9,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 11,
+            "url": "/warranty-registration",
+            "match_url": "/warranty-registration",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 10,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 12,
+            "url": "/waranty",
+            "match_url": "/waranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 19,
+            "regex": false,
+            "group_id": 1,
+            "position": 11,
+            "last_access": "September 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 13,
+            "url": "/leafhomewatersolutions-warranty",
+            "match_url": "/leafhomewatersolutions-warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 12,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 15,
+            "url": "/referral",
+            "match_url": "/referral",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/friends/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 14,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 16,
+            "url": "/refer",
+            "match_url": "/refer",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/friends/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 15,
+            "last_access": "April 26, 2024",
+            "enabled": true
+        },
+        {
+            "id": 17,
+            "url": "^/friends(/.*)?$",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/refer/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": true,
+            "group_id": 1,
+            "position": 16,
+            "last_access": "April 26, 2024",
+            "enabled": true
+        },
+        {
+            "id": 18,
+            "url": "/Wwaarranty",
+            "match_url": "/wwaarranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 17,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 19,
+            "url": "/warrantyregistration",
+            "match_url": "/warrantyregistration",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 18,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 21,
+            "url": "/refer-a-friend",
+            "match_url": "/refer-a-friend",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/friends/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 20,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 22,
+            "url": "/warrany",
+            "match_url": "/warrany",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 21,
+            "last_access": "May 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 23,
+            "url": "/warrantee",
+            "match_url": "/warrantee",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 22,
+            "last_access": "June 30, 2024",
+            "enabled": true
+        },
+        {
+            "id": 24,
+            "url": "/register warranty",
+            "match_url": "/register%20warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 23,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 26,
+            "url": "/warranty",
+            "match_url": "/warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/register/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 25,
+            "last_access": "January 9, 2024",
+            "enabled": true
+        },
+        {
+            "id": 27,
+            "url": "/warrranty",
+            "match_url": "/warrranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 26,
+            "last_access": "August 5, 2024",
+            "enabled": true
+        },
+        {
+            "id": 28,
+            "url": "/warrarty",
+            "match_url": "/warrarty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 27,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 29,
+            "url": "/warranty'",
+            "match_url": "/warranty%27",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 28,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 30,
+            "url": "/warrant",
+            "match_url": "/warrant",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 10,
+            "regex": false,
+            "group_id": 1,
+            "position": 29,
+            "last_access": "October 6, 2024",
+            "enabled": true
+        },
+        {
+            "id": 31,
+            "url": "/warr",
+            "match_url": "/warr",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 30,
+            "last_access": "June 6, 2024",
+            "enabled": true
+        },
+        {
+            "id": 33,
+            "url": "/terms-of-use-2/",
+            "match_url": "/terms-of-use-2",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/covid/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 32,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 34,
+            "url": "/warranty register",
+            "match_url": "/warranty%20register",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/warranty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 33,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 35,
+            "url": "/solutions",
+            "match_url": "/solutions",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/products/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3343,
+            "regex": false,
+            "group_id": 1,
+            "position": 34,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 36,
+            "url": "/process",
+            "match_url": "/process",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/about/installation/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2945,
+            "regex": false,
+            "group_id": 1,
+            "position": 35,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 37,
+            "url": "^/mailcard/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=62&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 36,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 38,
+            "url": "/frequently-asked-questions/",
+            "match_url": "/frequently-asked-questions",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/faq/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 37,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 39,
+            "url": "/resources/frequently-asked-questions/",
+            "match_url": "/resources/frequently-asked-questions",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/resources/faq/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 79,
+            "regex": false,
+            "group_id": 1,
+            "position": 38,
+            "last_access": "September 30, 2024",
+            "enabled": true
+        },
+        {
+            "id": 40,
+            "url": "/discovery/",
+            "match_url": "/discovery",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 39,
+            "last_access": "July 10, 2024",
+            "enabled": true
+        },
+        {
+            "id": 41,
+            "url": "/discover/product/water-softeners/",
+            "match_url": "/discover/product/water-softeners",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/products/water-softener/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 17,
+            "regex": false,
+            "group_id": 1,
+            "position": 40,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 42,
+            "url": "/discover/product/water-softener/",
+            "match_url": "/discover/product/water-softener",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/products/water-softener/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 41,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 43,
+            "url": "/blog/water-faqs/how-tos/how-to-make-snow-ice-safe-for-drinking/",
+            "match_url": "/blog/water-faqs/how-tos/how-to-make-snow-ice-safe-for-drinking",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/how-to-make-snow-ice-safe-for-drinking/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 131,
+            "regex": false,
+            "group_id": 1,
+            "position": 42,
+            "last_access": "October 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 44,
+            "url": "/blog/water-faqs/how-tos/how-do-i-know-if-i-have-hard-water/",
+            "match_url": "/blog/water-faqs/how-tos/how-do-i-know-if-i-have-hard-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/how-do-i-know-if-i-have-hard-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 751,
+            "regex": false,
+            "group_id": 1,
+            "position": 43,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 45,
+            "url": "/blog/water-faqs/how-tos/",
+            "match_url": "/blog/water-faqs/how-tos",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/how-tos/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 30,
+            "regex": false,
+            "group_id": 1,
+            "position": 44,
+            "last_access": "September 27, 2024",
+            "enabled": true
+        },
+        {
+            "id": 46,
+            "url": "/blog/water-faqs/hard-water/",
+            "match_url": "/blog/water-faqs/hard-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/hard-water-101/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 45,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 47,
+            "url": "/blog/water-faqs/hard-water-101/s/",
+            "match_url": "/blog/water-faqs/hard-water-101/s",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/hard-water-101/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 46,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 48,
+            "url": "/blog/water-faqs/hard-water-101/city-water-vs-well-water-why-it-matters/",
+            "match_url": "/blog/water-faqs/hard-water-101/city-water-vs-well-water-why-it-matters",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/hard-water-101/city-water-vs-well-water-why-it-matters/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 76,
+            "regex": false,
+            "group_id": 1,
+            "position": 47,
+            "last_access": "October 10, 2024",
+            "enabled": true
+        },
+        {
+            "id": 49,
+            "url": "/blog/water-faqs/hard-water-101/are-water-solutions-right-for-me/",
+            "match_url": "/blog/water-faqs/hard-water-101/are-water-solutions-right-for-me",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/hard-water-101/are-water-solutions-right-for-me/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 42,
+            "regex": false,
+            "group_id": 1,
+            "position": 48,
+            "last_access": "October 9, 2024",
+            "enabled": true
+        },
+        {
+            "id": 50,
+            "url": "/blog/water-faqs/hard-water-101/",
+            "match_url": "/blog/water-faqs/hard-water-101",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/hard-water-101/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 14,
+            "regex": false,
+            "group_id": 1,
+            "position": 49,
+            "last_access": "September 27, 2024",
+            "enabled": true
+        },
+        {
+            "id": 51,
+            "url": "/blog/water-faqs/ask-the-experts/",
+            "match_url": "/blog/water-faqs/ask-the-experts",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/ask-the-experts/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 8,
+            "regex": false,
+            "group_id": 1,
+            "position": 50,
+            "last_access": "September 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 52,
+            "url": "/blog/water-faqs/",
+            "match_url": "/blog/water-faqs",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 51,
+            "last_access": "-",
+            "enabled": false
+        },
+        {
+            "id": 53,
+            "url": "/blog/leaf-home-culture/sustainability/",
+            "match_url": "/blog/leaf-home-culture/sustainability",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/sustainability/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 52,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 54,
+            "url": "/sustainability/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+            "match_url": "/sustainability/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 53,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 55,
+            "url": "/sustainability/are-water-solutions-right-for-me/",
+            "match_url": "/sustainability/are-water-solutions-right-for-me",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/are-water-solutions-right-for-me/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 54,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 56,
+            "url": "/how-tos/how-to-make-snow-ice-safe-for-drinking/",
+            "match_url": "/how-tos/how-to-make-snow-ice-safe-for-drinking",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/how-to-make-snow-ice-safe-for-drinking/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 55,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 57,
+            "url": "/water-softening-and-filtration/filtered-water-not-just-for-humans/",
+            "match_url": "/water-softening-and-filtration/filtered-water-not-just-for-humans",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/filtered-water-not-just-for-humans/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 56,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 58,
+            "url": "/hard-water-101/how-do-i-know-if-i-have-hard-water/",
+            "match_url": "/hard-water-101/how-do-i-know-if-i-have-hard-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/how-do-i-know-if-i-have-hard-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 57,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 59,
+            "url": "/hard-water-101/hard-water-beauty/",
+            "match_url": "/hard-water-101/hard-water-beauty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/hard-water-beauty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 58,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 60,
+            "url": "/ask-the-experts/city-water-vs-well-water-why-it-matters/",
+            "match_url": "/ask-the-experts/city-water-vs-well-water-why-it-matters",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/city-water-vs-well-water-why-it-matters/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 59,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 61,
+            "url": "/blog/leaf-home-culture/employee-culture/",
+            "match_url": "/blog/leaf-home-culture/employee-culture",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 46,
+            "regex": false,
+            "group_id": 1,
+            "position": 60,
+            "last_access": "October 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 62,
+            "url": "/blog/leaf-home-culture/",
+            "match_url": "/blog/leaf-home-culture",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 104,
+            "regex": false,
+            "group_id": 1,
+            "position": 61,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 63,
+            "url": "/blog/innovative-products/water-softening-and-filtration/",
+            "match_url": "/blog/innovative-products/water-softening-and-filtration",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 17,
+            "regex": false,
+            "group_id": 1,
+            "position": 62,
+            "last_access": "September 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 64,
+            "url": "/blog/innovative-products/",
+            "match_url": "/blog/innovative-products",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 63,
+            "last_access": "January 12, 2024",
+            "enabled": false
+        },
+        {
+            "id": 65,
+            "url": "/blog/benefits-of-better-water/home-and-health/filtered-water-not-just-for-humans/",
+            "match_url": "/blog/benefits-of-better-water/home-and-health/filtered-water-not-just-for-humans",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/filtered-water-not-just-for-humans/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 101,
+            "regex": false,
+            "group_id": 1,
+            "position": 64,
+            "last_access": "October 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 66,
+            "url": "/blog/benefits-of-better-water/home-and-health/",
+            "match_url": "/blog/benefits-of-better-water/home-and-health",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 32,
+            "regex": false,
+            "group_id": 1,
+            "position": 65,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 67,
+            "url": "/blog/benefits-of-better-water/beauty/hard-water-beauty/",
+            "match_url": "/blog/benefits-of-better-water/beauty/hard-water-beauty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/hard-water-beauty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 55,
+            "regex": false,
+            "group_id": 1,
+            "position": 66,
+            "last_access": "October 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 68,
+            "url": "/blog/benefits-of-better-water/beauty/",
+            "match_url": "/blog/benefits-of-better-water/beauty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 117,
+            "regex": false,
+            "group_id": 1,
+            "position": 67,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 69,
+            "url": "/blog/benefits-of-better-water/",
+            "match_url": "/blog/benefits-of-better-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 68,
+            "last_access": "January 12, 2024",
+            "enabled": false
+        },
+        {
+            "id": 70,
+            "url": "/about-us/",
+            "match_url": "/about-us",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/about/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2161,
+            "regex": false,
+            "group_id": 1,
+            "position": 69,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 71,
+            "url": "/about-us/l/",
+            "match_url": "/about-us/l",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/about/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 10,
+            "regex": false,
+            "group_id": 1,
+            "position": 70,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 72,
+            "url": "/about-us/faq/",
+            "match_url": "/about-us/faq",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/resources/faq/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1330,
+            "regex": false,
+            "group_id": 1,
+            "position": 71,
+            "last_access": "October 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 73,
+            "url": "^/15/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": true,
+            "group_id": 1,
+            "position": 72,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 75,
+            "url": "/ discover/",
+            "match_url": "/%20discover",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 74,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 76,
+            "url": "/150ff/",
+            "match_url": "/150ff",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 75,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 77,
+            "url": "^/mailecard/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=61&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": true,
+            "group_id": 1,
+            "position": 76,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 78,
+            "url": "^/mailcoupon/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=283&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 7,
+            "regex": true,
+            "group_id": 1,
+            "position": 77,
+            "last_access": "September 18, 2024",
+            "enabled": true
+        },
+        {
+            "id": 79,
+            "url": "^/mailer/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=282&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 17,
+            "regex": true,
+            "group_id": 1,
+            "position": 78,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 80,
+            "url": "^/smartsource/?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=284&utm_medium=print&utm_campaign=convergedirect-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner%3Aon"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": true,
+            "group_id": 1,
+            "position": 79,
+            "last_access": "September 3, 2024",
+            "enabled": true
+        },
+        {
+            "id": 81,
+            "url": "/savenow/",
+            "match_url": "/savenow",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=88w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer&legacy_redirect&utm_content=banner:on"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 80,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 82,
+            "url": "/save/",
+            "match_url": "/save",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/?utm_source=10w&utm_medium=postcard&utm_campaign=VanityUrl-ND&lf_dc=300-offer&legacy_redirect&utm_content=banner:on"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 81,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 83,
+            "url": "/discover/water-solutions/",
+            "match_url": "/discover/water-solutions",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/better-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 82,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 84,
+            "url": "/elementor-20277/",
+            "match_url": "/elementor-20277",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/sms-policy/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 83,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 85,
+            "url": "/contact/",
+            "match_url": "/contact",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/about/contact/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 463,
+            "regex": false,
+            "group_id": 1,
+            "position": 84,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 86,
+            "url": "/blog/6-hard-water-signs/",
+            "match_url": "/blog/6-hard-water-signs",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/6-signs-hard-water-problems/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 175,
+            "regex": false,
+            "group_id": 1,
+            "position": 85,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 87,
+            "url": "/discover-3/",
+            "match_url": "/discover-3",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/black-friday/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 86,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 88,
+            "url": "/yelp/",
+            "match_url": "/yelp",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/?utm_source=41DY&utm_campaign=yelp-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 461,
+            "regex": false,
+            "group_id": 1,
+            "position": 87,
+            "last_access": "October 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 89,
+            "url": "/lhss-base-styles/",
+            "match_url": "/lhss-base-styles",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/lhws-base-styles/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 88,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 91,
+            "url": "/thank-you-product/",
+            "match_url": "/thank-you-product",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/thank-you-2/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 2,
+            "position": 1,
+            "last_access": "December 28, 2023",
+            "enabled": false
+        },
+        {
+            "id": 92,
+            "url": "/thank-you-2/",
+            "match_url": "/thank-you-2",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/thank-you-product/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 2,
+            "position": 2,
+            "last_access": "December 28, 2023",
+            "enabled": true
+        },
+        {
+            "id": 93,
+            "url": "/water-softeners/",
+            "match_url": "/water-softeners",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/products/water-softeners/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 2,
+            "position": 3,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 94,
+            "url": "/warranty/",
+            "match_url": "/warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/register/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2561,
+            "regex": false,
+            "group_id": 2,
+            "position": 3,
+            "last_access": "October 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 96,
+            "url": "/resources/careers/call-center-representative/",
+            "match_url": "/resources/careers/call-center-representative",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://web.fountain.com/c/leaf-home/sean-loboda/picker"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 69,
+            "regex": false,
+            "group_id": 1,
+            "position": 84,
+            "last_access": "September 27, 2024",
+            "enabled": true
+        },
+        {
+            "id": 97,
+            "url": "/resources/careers/sales/",
+            "match_url": "/resources/careers/sales",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://web.fountain.com/c/leaf-home/sean-loboda/picker"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 390,
+            "regex": false,
+            "group_id": 1,
+            "position": 85,
+            "last_access": "September 30, 2024",
+            "enabled": true
+        },
+        {
+            "id": 98,
+            "url": "/resources/careers/installation/",
+            "match_url": "/resources/careers/installation",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://web.fountain.com/c/leaf-home/sean-loboda/picker"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 394,
+            "regex": false,
+            "group_id": 1,
+            "position": 86,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 99,
+            "url": "/privacy-policy/",
+            "match_url": "/privacy-policy",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://privacy.leafhome.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2365,
+            "regex": false,
+            "group_id": 1,
+            "position": 87,
+            "last_access": "October 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 100,
+            "url": "/discover/5-steps/",
+            "match_url": "/discover/5-steps",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 56,
+            "regex": false,
+            "group_id": 1,
+            "position": 88,
+            "last_access": "October 6, 2024",
+            "enabled": true
+        },
+        {
+            "id": 101,
+            "url": "/discover-2/",
+            "match_url": "/discover-2",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 128,
+            "regex": false,
+            "group_id": 1,
+            "position": 89,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 102,
+            "url": "/discover/quality-2/",
+            "match_url": "/discover/quality-2",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 10,
+            "regex": false,
+            "group_id": 1,
+            "position": 90,
+            "last_access": "October 9, 2024",
+            "enabled": true
+        },
+        {
+            "id": 103,
+            "url": "/discover/quality/",
+            "match_url": "/discover/quality",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 28,
+            "regex": false,
+            "group_id": 1,
+            "position": 91,
+            "last_access": "October 9, 2024",
+            "enabled": true
+        },
+        {
+            "id": 104,
+            "url": "/discover/discover/",
+            "match_url": "/discover/discover",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 92,
+            "last_access": "October 9, 2024",
+            "enabled": true
+        },
+        {
+            "id": 105,
+            "url": "/discover/discover-new-duplicate-19882/",
+            "match_url": "/discover/discover-new-duplicate-19882",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 8,
+            "regex": false,
+            "group_id": 1,
+            "position": 93,
+            "last_access": "July 3, 2024",
+            "enabled": true
+        },
+        {
+            "id": 106,
+            "url": "/discover/discover-new-ec/",
+            "match_url": "/discover/discover-new-ec",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 94,
+            "last_access": "July 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 107,
+            "url": "/discover/ugc/",
+            "match_url": "/discover/ugc",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 24,
+            "regex": false,
+            "group_id": 1,
+            "position": 95,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 108,
+            "url": "/blog/how-do-i-know-if-i-have-hard-water/",
+            "match_url": "/blog/how-do-i-know-if-i-have-hard-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/how-do-i-know-if-i-have-hard-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1063,
+            "regex": false,
+            "group_id": 1,
+            "position": 96,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 109,
+            "url": "/blog/how-to-celebrate-national-water-quality-month/",
+            "match_url": "/blog/how-to-celebrate-national-water-quality-month",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/how-to-celebrate-national-water-quality-month/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 111,
+            "regex": false,
+            "group_id": 1,
+            "position": 97,
+            "last_access": "September 30, 2024",
+            "enabled": true
+        },
+        {
+            "id": 110,
+            "url": "/blog/how-to-declutter-your-home/",
+            "match_url": "/blog/how-to-declutter-your-home",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/how-to-declutter-your-home/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 150,
+            "regex": false,
+            "group_id": 1,
+            "position": 98,
+            "last_access": "September 30, 2024",
+            "enabled": true
+        },
+        {
+            "id": 111,
+            "url": "/blog/how-to-maintain-your-water-softener-7-essential-tips/",
+            "match_url": "/blog/how-to-maintain-your-water-softener-7-essential-tips",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/how-to-maintain-your-water-softener-7-essential-tips/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 233,
+            "regex": false,
+            "group_id": 1,
+            "position": 99,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 112,
+            "url": "/blog/rotten-egg-smell-sulfur-water/",
+            "match_url": "/blog/rotten-egg-smell-sulfur-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/rotten-egg-smell-sulfur-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 952,
+            "regex": false,
+            "group_id": 1,
+            "position": 100,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 113,
+            "url": "/blog/how-to-make-snow-ice-safe-for-drinking/",
+            "match_url": "/blog/how-to-make-snow-ice-safe-for-drinking",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/how-to-make-snow-ice-safe-for-drinking/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 299,
+            "regex": false,
+            "group_id": 1,
+            "position": 101,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 114,
+            "url": "/blog/most-common-types-of-water-treatment/",
+            "match_url": "/blog/most-common-types-of-water-treatment",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/most-common-types-of-water-treatment/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 452,
+            "regex": false,
+            "group_id": 1,
+            "position": 102,
+            "last_access": "September 30, 2024",
+            "enabled": true
+        },
+        {
+            "id": 115,
+            "url": "/blog/reverse-osmosis-how-it-works/",
+            "match_url": "/blog/reverse-osmosis-how-it-works",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/reverse-osmosis-how-it-works/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 368,
+            "regex": false,
+            "group_id": 1,
+            "position": 103,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 116,
+            "url": "/blog/beauty/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails/",
+            "match_url": "/blog/beauty/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/sustainability/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 727,
+            "regex": false,
+            "group_id": 1,
+            "position": 104,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 117,
+            "url": "/blog/benefits-of-better-water/the-hard-truth-how-do-salt-free-water-softeners-work/",
+            "match_url": "/blog/benefits-of-better-water/the-hard-truth-how-do-salt-free-water-softeners-work",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/the-hard-truth-how-do-salt-free-water-softeners-work/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 227,
+            "regex": false,
+            "group_id": 1,
+            "position": 105,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 118,
+            "url": "/blog/the-worlds-universal-solvent/",
+            "match_url": "/blog/the-worlds-universal-solvent",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/the-worlds-universal-solvent/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 279,
+            "regex": false,
+            "group_id": 1,
+            "position": 106,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 119,
+            "url": "/blog/home-and-health/water-quality-the-importance-of-home-water-testing/",
+            "match_url": "/blog/home-and-health/water-quality-the-importance-of-home-water-testing",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/ask-the-experts/water-quality-the-importance-of-home-water-testing/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 614,
+            "regex": false,
+            "group_id": 1,
+            "position": 107,
+            "last_access": "October 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 120,
+            "url": "/blog/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+            "match_url": "/blog/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 300,
+            "regex": false,
+            "group_id": 1,
+            "position": 108,
+            "last_access": "October 10, 2024",
+            "enabled": true
+        },
+        {
+            "id": 121,
+            "url": "/blog/home-and-health/a-checklist-get-your-home-ready-for-sale/",
+            "match_url": "/blog/home-and-health/a-checklist-get-your-home-ready-for-sale",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/ask-the-experts/a-checklist-get-your-home-ready-for-sale/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 717,
+            "regex": false,
+            "group_id": 1,
+            "position": 109,
+            "last_access": "October 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 122,
+            "url": "/blog/are-water-solutions-right-for-me/",
+            "match_url": "/blog/are-water-solutions-right-for-me",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/are-water-solutions-right-for-me/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 727,
+            "regex": false,
+            "group_id": 1,
+            "position": 110,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 123,
+            "url": "/blog/can-drinking-water-help-you-lose-weight/",
+            "match_url": "/blog/can-drinking-water-help-you-lose-weight",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/can-drinking-water-help-you-lose-weight/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 111,
+            "regex": false,
+            "group_id": 1,
+            "position": 111,
+            "last_access": "September 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 124,
+            "url": "/blog/city-water-vs-well-water/",
+            "match_url": "/blog/city-water-vs-well-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/ask-the-experts/city-water-vs-well-water/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 91,
+            "regex": false,
+            "group_id": 1,
+            "position": 112,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 125,
+            "url": "/blog/benefits-of-better-water/city-water-vs-well-water-why-it-matters/",
+            "match_url": "/blog/benefits-of-better-water/city-water-vs-well-water-why-it-matters",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/city-water-vs-well-water-why-it-matters/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 290,
+            "regex": false,
+            "group_id": 1,
+            "position": 113,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 126,
+            "url": "/blog/ask-the-experts/consumer-water-survey-reveals-home-water-testing-gap/",
+            "match_url": "/blog/ask-the-experts/consumer-water-survey-reveals-home-water-testing-gap",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/home-and-health/consumer-water-survey-reveals-home-water-testing-gap/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 289,
+            "regex": false,
+            "group_id": 1,
+            "position": 114,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 127,
+            "url": "/blog/filtered-water-not-just-for-humans/",
+            "match_url": "/blog/filtered-water-not-just-for-humans",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/filtered-water-not-just-for-humans/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 257,
+            "regex": false,
+            "group_id": 1,
+            "position": 115,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 128,
+            "url": "/blog/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor/",
+            "match_url": "/blog/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 741,
+            "regex": false,
+            "group_id": 1,
+            "position": 116,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 129,
+            "url": "/blog/6-signs-hard-water-problems/",
+            "match_url": "/blog/6-signs-hard-water-problems",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/6-signs-hard-water-problems/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 869,
+            "regex": false,
+            "group_id": 1,
+            "position": 117,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 130,
+            "url": "/blog/hard-water-beauty/",
+            "match_url": "/blog/hard-water-beauty",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/water-softening-and-filtration/hard-water-beauty/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 159,
+            "regex": false,
+            "group_id": 1,
+            "position": 118,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 131,
+            "url": "/blog/home-and-health/water-quality-the-importance-of-home-water-testing/",
+            "match_url": "/blog/home-and-health/water-quality-the-importance-of-home-water-testing",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/blog/ask-the-experts/water-quality-the-importance-of-home-water-testing/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 119,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 132,
+            "url": "/black-friday/",
+            "match_url": "/black-friday",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 65,
+            "regex": false,
+            "group_id": 1,
+            "position": 120,
+            "last_access": "September 26, 2024",
+            "enabled": true
+        },
+        {
+            "id": 133,
+            "url": "/discover/better-water/",
+            "match_url": "/discover/better-water",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 45,
+            "regex": false,
+            "group_id": 1,
+            "position": 121,
+            "last_access": "October 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 134,
+            "url": "/screen/",
+            "match_url": "/screen",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/promo-reverse-osmosis-system-www/?utm_source=99"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 73,
+            "regex": false,
+            "group_id": 1,
+            "position": 122,
+            "last_access": "October 9, 2024",
+            "enabled": true
+        },
+        {
+            "id": 135,
+            "url": "/facebook/",
+            "match_url": "/facebook",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=facebook-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 123,
+            "last_access": "March 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 136,
+            "url": "/instagram/",
+            "match_url": "/instagram",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=instagram-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 124,
+            "last_access": "March 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 137,
+            "url": "/tiktok/",
+            "match_url": "/tiktok",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=tiktok-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 125,
+            "last_access": "March 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 139,
+            "url": "/discover/gd-www/protect-your-home-www/",
+            "match_url": "/discover/gd-www/protect-your-home-www",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/gd/protect-your-home/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 57,
+            "regex": false,
+            "group_id": 1,
+            "position": 127,
+            "last_access": "March 25, 2024",
+            "enabled": false
+        },
+        {
+            "id": 141,
+            "url": "/betterwatertogethercampaign/tampa/",
+            "match_url": "/betterwatertogethercampaign/tampa",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/better-water-together-tampa/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 638,
+            "regex": false,
+            "group_id": 1,
+            "position": 129,
+            "last_access": "October 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 142,
+            "url": "/betterwatertogethercampaign/cleveland/",
+            "match_url": "/betterwatertogethercampaign/cleveland",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/better-water-together-cleveland/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 161,
+            "regex": false,
+            "group_id": 1,
+            "position": 130,
+            "last_access": "October 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 143,
+            "url": "/betterwatertogethercampaign/detroit/",
+            "match_url": "/betterwatertogethercampaign/detroit",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/better-water-together-detroit/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 120,
+            "regex": false,
+            "group_id": 1,
+            "position": 131,
+            "last_access": "October 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 144,
+            "url": "/betterwatertogethercampaign/houston/",
+            "match_url": "/betterwatertogethercampaign/houston",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/better-water-together-houston/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 182,
+            "regex": false,
+            "group_id": 1,
+            "position": 132,
+            "last_access": "October 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 145,
+            "url": "/discover/pfas-www/",
+            "match_url": "/discover/pfas-www",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/pfas/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 131,
+            "last_access": "March 26, 2024",
+            "enabled": false
+        },
+        {
+            "id": 146,
+            "url": "/clean/",
+            "match_url": "/clean",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 18,
+            "regex": false,
+            "group_id": 1,
+            "position": 132,
+            "last_access": "July 24, 2024",
+            "enabled": false
+        },
+        {
+            "id": 147,
+            "url": "/refresh/",
+            "match_url": "/refresh",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 20,
+            "regex": false,
+            "group_id": 1,
+            "position": 133,
+            "last_access": "July 24, 2024",
+            "enabled": false
+        },
+        {
+            "id": 148,
+            "url": "/safe/",
+            "match_url": "/safe",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 19,
+            "regex": false,
+            "group_id": 1,
+            "position": 134,
+            "last_access": "July 24, 2024",
+            "enabled": false
+        },
+        {
+            "id": 149,
+            "url": "/valpak15off/",
+            "match_url": "/valpak15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=20w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 23,
+            "regex": false,
+            "group_id": 1,
+            "position": 135,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 150,
+            "url": "/news15off/",
+            "match_url": "/news15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=463w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 40,
+            "regex": false,
+            "group_id": 1,
+            "position": 136,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 151,
+            "url": "/flyer15off/",
+            "match_url": "/flyer15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=464w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 9,
+            "regex": false,
+            "group_id": 1,
+            "position": 137,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 152,
+            "url": "/bestpick15off/",
+            "match_url": "/bestpick15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=BESTPICKw&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 138,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 153,
+            "url": "/fivestar15off/",
+            "match_url": "/fivestar15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=FIVESTARw&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 139,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 154,
+            "url": "/mswi15off/",
+            "match_url": "/mswi15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=462w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 140,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 155,
+            "url": "/cc15off/",
+            "match_url": "/cc15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=457w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 141,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 156,
+            "url": "/cq15off/",
+            "match_url": "/cq15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=108w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 142,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 157,
+            "url": "/hc15off/",
+            "match_url": "/hc15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=278w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 29,
+            "regex": false,
+            "group_id": 1,
+            "position": 143,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 158,
+            "url": "/thm15off/",
+            "match_url": "/thm15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=35w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 144,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 159,
+            "url": "/ml15off/",
+            "match_url": "/ml15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=513w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 145,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 160,
+            "url": "/mme15off/",
+            "match_url": "/mme15off",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=59w&utm_medium=print&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=print-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 146,
+            "last_access": "July 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 161,
+            "url": "/clean/",
+            "match_url": "/clean",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 28,
+            "regex": false,
+            "group_id": 1,
+            "position": 147,
+            "last_access": "October 10, 2024",
+            "enabled": true
+        },
+        {
+            "id": 162,
+            "url": "/refresh/",
+            "match_url": "/refresh",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 21,
+            "regex": false,
+            "group_id": 1,
+            "position": 148,
+            "last_access": "September 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 163,
+            "url": "/safe/",
+            "match_url": "/safe",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover/?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 23,
+            "regex": false,
+            "group_id": 1,
+            "position": 149,
+            "last_access": "September 27, 2024",
+            "enabled": true
+        },
+        {
+            "id": 164,
+            "url": "/gobrowns/",
+            "match_url": "/gobrowns",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/?utm_source=1946w&utm_medium=print&utm_campaign=VanityUrl-ND&lf_dc=15-offer"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 34,
+            "regex": false,
+            "group_id": 1,
+            "position": 150,
+            "last_access": "August 16, 2024",
+            "enabled": false
+        },
+        {
+            "id": 165,
+            "url": "/gobrowns/",
+            "match_url": "/gobrowns",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/go-browns/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 2,
+            "position": 4,
+            "last_access": "-",
+            "enabled": false
+        },
+        {
+            "id": 166,
+            "url": "/go-browns/",
+            "match_url": "/go-browns",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/gobrowns/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 2,
+            "position": 5,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 167,
+            "url": "/Solve/",
+            "match_url": "/solve",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 151,
+            "last_access": "September 19, 2024",
+            "enabled": true
+        },
+        {
+            "id": 168,
+            "url": "/Hydrate/",
+            "match_url": "/hydrate",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 9,
+            "regex": false,
+            "group_id": 1,
+            "position": 152,
+            "last_access": "October 7, 2024",
+            "enabled": true
+        },
+        {
+            "id": 169,
+            "url": "/Pure/",
+            "match_url": "/pure",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 153,
+            "last_access": "October 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 170,
+            "url": "/Home/",
+            "match_url": "/home",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhomewatersolutions.com/discover?utm_source=10w&utm_medium=Postcard&utm_content=evergreen&utm_campaign=VanityURL-ND&if_dc=save-15"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 32,
+            "regex": false,
+            "group_id": 1,
+            "position": 154,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 171,
+            "url": "/simplisafe-sales/",
+            "match_url": "/simplisafe-sales",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/registersimplisafe/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 2,
+            "position": 6,
+            "last_access": "October 4, 2024",
+            "enabled": true
+        }
+    ]
+}
