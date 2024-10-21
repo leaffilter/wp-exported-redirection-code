@@ -20,7 +20,6 @@ async function main() {
   files.forEach((file) => {
     const data = fs.readFileSync(path.join(jsonDirectory, file));
     const json = JSON.parse(data.toString());
-    const domain = getDomain(file);
 
     const output = [];
     const disabled = [];

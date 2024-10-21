@@ -1,0 +1,1217 @@
+[
+    {
+        "base64": false,
+        "key": "/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about-us/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/about\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/about",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-design/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-design/timeless-color-trend/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/timeless-color-trend\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/timeless-color-trend",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/aging-in-place-specialists/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/aging-in-place-specialists\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/aging-in-place-specialists",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/hydrotherapy-benefits/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/hydrotherapy-benefits\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/hydrotherapy-benefits",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/multigenerational-homes/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/multigenerational-homes\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/multigenerational-homes",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/nursing-home-costs/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/nursing-home-costs\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/nursing-home-costs",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/senior-athletes/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/senior-athletes\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/senior-athletes",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/staycation/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/staycation\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/staycation",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/lifestyle-advice/sustainability/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/sustainability\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/sustainability",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/safety-solutions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/safety-solutions/home-technology/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/home-technology\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/home-technology",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/safety-solutions/safety-and-style/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/safety-and-style\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/safety-and-style",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/trending-topics/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/trending-topics/boomers-trading-spaces/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/boomers-trading-spaces\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/boomers-trading-spaces",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/trending-topics/boomers-vs-millennials-housing/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/boomers-vs-millennials-housing\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/boomers-vs-millennials-housing",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/trending-topics/home-trends-boomers/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/home-trends-boomers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/home-trends-boomers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/trending-topics/retirement-has-changed/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/retirement-has-changed\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/retirement-has-changed",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/trending-topics/senior-instagram-influencers/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/senior-instagram-influencers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/senior-instagram-influencers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/trending-topics/top-retirement-communities/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/blog/stair-lift/top-retirement-communities\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/blog/stair-lift/top-retirement-communities",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/careers/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/careers/installers/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/careers/sales/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/contact/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/contact-us\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/contact-us",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/licenses/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/licenses\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/licenses",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/locations/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/locations\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/locations",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/stair-lifts/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tub-to-shower/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/walk-in-tubs/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/albright/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/alma/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/anmoore/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/arthurdale/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/aurora-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/bretz/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/bridgeport-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/bruceton-mills/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/center-point/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/clarksburg-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/eglon/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/enterprise/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/flemington/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/friendly/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/grafton-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/gypsy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/haywood/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/hepzibah/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/independence-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/kingwood/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.618Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.618Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/lost-creek/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/lumberport/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/masontown-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/meadowbrook/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/middlebourne/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/mount-clare/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/new-milton/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/newburg/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/reedsville/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/reynoldsville-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/rosemont/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/rowlesburg/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/salem-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/shinnston/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/shirley/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/simpson/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/sistersville/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/smithburg/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/spelter/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/terra-alta/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/thornton-west-virginia/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/tunnelton/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/wallace/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/west-milford/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/west-union/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/service-area/west-virginia/wyatt/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/stair-lift\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/stair-lift",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/leaf-home-safety-solutions-licenses/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/licenses\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/licenses",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/recruitingQR/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/installer/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.619Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.619Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    }
+]

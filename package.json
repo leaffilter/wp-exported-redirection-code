@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "process": "node index.js"
+    "process-wp": "node index-wp.js",
+    "process-csv": "node index-csv.js"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
 }

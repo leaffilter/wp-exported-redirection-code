@@ -1,0 +1,2132 @@
+[
+    {
+        "base64": false,
+        "key": "/about-us/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/about\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/about",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/about\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/about",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about-us/l/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/about\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/about",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/how-tos/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-tos/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-101/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/s/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/ask-the-experts/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/ask-the-experts/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/leaf-home-culture/sustainability/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/sustainability/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/leaf-home-culture/employee-culture/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/leaf-home-culture/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/innovative-products/water-softening-and-filtration/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/home-and-health/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/sustainability/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/6-signs-hard-water-problems/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/6-signs-hard-water-problems\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/6-signs-hard-water-problems",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/6-hard-water-signs/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/6-signs-hard-water-problems\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/6-signs-hard-water-problems",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-and-health/a-checklist-get-your-home-ready-for-sale/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/a-checklist-get-your-home-ready-for-sale\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/a-checklist-get-your-home-ready-for-sale",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhomewatersolutions.com/blog/are-water-solutions-right-for-me/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhomewatersolutions.com/blog/are-water-solutions-right-for-me/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/sustainability/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/can-drinking-water-help-you-lose-weight/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/can-drinking-water-help-you-lose-weight\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/can-drinking-water-help-you-lose-weight",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water-why-it-matters\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water-why-it-matters",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/hard-water-101/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/ask-the-experts/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/city-water-vs-well-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/ask-the-experts/consumer-water-survey-reveals-home-water-testing-gap/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/consumer-water-survey-reveals-home-water-testing-gap\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/consumer-water-survey-reveals-home-water-testing-gap",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/water-softening-and-filtration/filtered-water-not-just-for-humans/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/home-and-health/filtered-water-not-just-for-humans/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/filtered-water-not-just-for-humans/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/hard-water-101/hard-water-beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/hard-water-beauty\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/hard-water-beauty",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/beauty/hard-water-beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/hard-water-beauty\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/hard-water-beauty",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/hard-water-beauty\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/hard-water-beauty",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/how-tos/how-do-i-know-if-i-have-hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-do-i-know-if-i-have-hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/hard-water-101/how-do-i-know-if-i-have-hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-celebrate-national-water-quality-month/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-celebrate-national-water-quality-mont\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-celebrate-national-water-quality-mont",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-declutter-your-home/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-declutter-your-home\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-declutter-your-home",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-maintain-your-water-softener-7-essential-tips/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-maintain-your-water-softener-7-essential-tips\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-maintain-your-water-softener-7-essential-tips",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/how-tos/how-to-make-snow-ice-safe-for-drinking/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/how-tos/how-to-make-snow-ice-safe-for-drinking/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/how-to-make-snow-ice-safe-for-drinking/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/most-common-types-of-water-treatment/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.620Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/most-common-types-of-water-treatment\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.620Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/most-common-types-of-water-treatment",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/reverse-osmosis-how-it-works/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/reverse-osmosis-how-it-works\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/reverse-osmosis-how-it-works",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/rotten-egg-smell-sulfur-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/rotten-egg-smell-sulfur-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/rotten-egg-smell-sulfur-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/beauty/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/the-hard-truth-how-do-salt-free-water-softeners-work/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/the-hard-truth-how-do-salt-free-water-softeners-wor\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/the-hard-truth-how-do-salt-free-water-softeners-wor",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/the-hard-truth-how-do-salt-free-water-softeners-work/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/the-hard-truth-how-do-salt-free-water-softeners-wor\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/the-hard-truth-how-do-salt-free-water-softeners-wor",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-and-health/water-quality-the-importance-of-home-water-testing/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/water-quality-the-importance-of-home-water-testing\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/water-quality-the-importance-of-home-water-testing",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/the-worlds-universal-solvent/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/water-softening-and-filtration/the-worlds-universal-solvent\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/water-softening-and-filtration/the-worlds-universal-solvent",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/careers/call-center-representative/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/careers/sales/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/careers/installation/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/contact/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/contact-us\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/contact-us",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about/water-test",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/solutions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/solutions",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/process",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/frequently-asked-questions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/process/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/installation\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/installation",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/frequently-asked-questions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/resources\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/resources",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about-us/faq/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/resources\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/resources",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/product/water-softeners/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/product/water-softener/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/water-softeners/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/5-little-known-ways-to-be-more-sustainable-with-how-you-use-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/6-signs-hard-water-problems/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/6-signs-hard-water-problems\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/6-signs-hard-water-problems",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/ask-the-experts/a-checklist-get-your-home-ready-for-sale/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/a-checklist-get-your-home-ready-for-sale\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/a-checklist-get-your-home-ready-for-sale",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-101/are-water-solutions-right-for-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/are-water-solutions-right-for-me",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/can-drinking-water-help-you-lose-weight/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/can-drinking-water-help-you-lose-weight\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/can-drinking-water-help-you-lose-weight",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water-why-it-matters\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water-why-it-matters",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-101/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/city-water-vs-well-water-why-it-matters/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/ask-the-experts/city-water-vs-well-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/city-water-vs-well-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-and-health/consumer-water-survey-reveals-home-water-testing-gap/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/consumer-water-survey-reveals-home-water-testing-gap\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/consumer-water-survey-reveals-home-water-testing-gap",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/filtered-water-not-just-for-humans/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/filtered-water-not-just-for-humans",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/hard-water-and-home-cooked-meals-the-chemistry-behind-flavor",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/hard-water-beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/hard-water-beauty\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/hard-water-beauty",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/how-do-i-know-if-i-have-hard-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-do-i-know-if-i-have-hard-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/how-to-celebrate-national-water-quality-month/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-celebrate-national-water-quality-mont\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-celebrate-national-water-quality-mont",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/how-to-declutter-your-home/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-declutter-your-home\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-declutter-your-home",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/how-to-maintain-your-water-softener-7-essential-tips/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-maintain-your-water-softener-7-essential-tips\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-maintain-your-water-softener-7-essential-tips",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/how-to-make-snow-ice-safe-for-drinking/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-to-make-snow-ice-safe-for-drinking",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/most-common-types-of-water-treatment/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/most-common-types-of-water-treatment\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/most-common-types-of-water-treatment",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/reverse-osmosis-how-it-works/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/reverse-osmosis-how-it-works\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/reverse-osmosis-how-it-works",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/rotten-egg-smell-sulfur-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/rotten-egg-smell-sulfur-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/rotten-egg-smell-sulfur-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/sustainability/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/step-up-your-self-care-how-water-affects-your-skin-hair-and-nails",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/the-hard-truth-how-do-salt-free-water-softeners-work/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/the-hard-truth-how-do-salt-free-water-softeners-wor\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/the-hard-truth-how-do-salt-free-water-softeners-wor",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/ask-the-experts/water-quality-the-importance-of-home-water-testing/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/water-quality-the-importance-of-home-water-testing\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/water-quality-the-importance-of-home-water-testing",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-softening-and-filtration/the-worlds-universal-solvent/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/water-softening-and-filtration/the-worlds-universal-solvent\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/water-softening-and-filtration/the-worlds-universal-solvent",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about/contact/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/contact-us\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/contact-us",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about/water-test/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/faq/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/about/installation/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/installation\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/installation",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/faq/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/resources\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/resources",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/water-softener/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/water-softeners/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-softening-systems/water-softeners",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/uv/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-filtration-systems/uv-filtration\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-filtration-systems/uv-filtration",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/water-sources/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/water-sources/well-water-system/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/well-water-systems\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/well-water-systems",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/water-sources/city-water-system/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/whole-home-water-system/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-filtration-systems/advanced-filtratio\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-filtration-systems/advanced-filtratio",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/water-filtration/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-filtration-systems\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-filtration-systems",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/locations/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/locations\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/locations",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/resource\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/resource",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/resources/careers/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/careers\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/careers",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/terms-of-use/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/terms-of-use\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/terms-of-use",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/reverse-osmosis/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-filtration-systems/reverse-osmosis\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-filtration-systems/reverse-osmosis",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/products/water-conditioning/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/water-solutions/water-softening-systems/salt-free-conditioner\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/water-solutions/water-softening-systems/salt-free-conditioner",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-and-health/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/benefits-of-better-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hydration-hacks-for-the-active-season-maximizing-performance-with-hydrated-exercise/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/hydration-hacks-for-the-active-season-maximizing-performance-with-hydrated-exercise\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/hydration-hacks-for-the-active-season-maximizing-performance-with-hydrated-exercise",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/home-and-health/clean-water-wellness-tips/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/clean-water-wellness-tips\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/clean-water-wellness-tips",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/sustainability/the-conscious-hosts-guide-to-conserving-water-while-entertaining-this-holiday-season/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/the-conscious-hosts-guide-to-conserving-water-while-entertaining-this-holiday-season\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/the-conscious-hosts-guide-to-conserving-water-while-entertaining-this-holiday-season",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/beauty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/innovative-products/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/water-faqs/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-101/preventing-water-stains/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/preventing-water-stains\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/preventing-water-stains",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/hard-water-101/fact-check-5-common-water-softener-misconceptions/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/fact-check-5-common-water-softener-misconception\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/fact-check-5-common-water-softener-misconception",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tag/featured/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tag/home/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/uncategorized/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/uncategorized/the-secret-ingredient-for-holiday-cooking-fresh-pure-water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/the-secret-ingredient-for-holiday-cooking-fresh-pure-water\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/the-secret-ingredient-for-holiday-cooking-fresh-pure-water",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tag/water/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tag/water-treatment/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tag/holidays/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tag/water-filter/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog/uncategorized/how-water-quality-affects-alcohol-dont-let-it-ruin-your-happy-hour/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions/how-water-quality-affects-alcohol-dont-let-it-ruin-your-happy-hour\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions/how-water-quality-affects-alcohol-dont-let-it-ruin-your-happy-hour",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/tag/water-system/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-21T17:44:45.621Z\",\"redirect\":\"https://www.leafhome.com/blog/water-solutions\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-21T17:44:45.621Z",
+            "redirect": "https://www.leafhome.com/blog/water-solutions",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    }
+]
