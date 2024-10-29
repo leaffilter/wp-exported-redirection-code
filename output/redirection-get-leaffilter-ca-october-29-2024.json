@@ -1,0 +1,32 @@
+[
+    {
+        "base64": false,
+        "key": "/privacy-policy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.654Z\",\"redirect\":\"https://privacy.leafhome.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.654Z",
+            "redirect": "https://privacy.leafhome.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/terms-of-use/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.655Z\",\"redirect\":\"https://www.leafhome.com/terms-of-use/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.655Z",
+            "redirect": "https://www.leafhome.com/terms-of-use/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    }
+]

@@ -1,0 +1,1442 @@
+[
+    {
+        "base64": false,
+        "key": "/privacy-policy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"https://privacy.leafhome.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "https://privacy.leafhome.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/pros/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"https://get.leaffilter.com/discover/pros/?utm_source=41ATBQR&utm_campaign=VanityUrl-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "https://get.leaffilter.com/discover/pros/?utm_source=41ATBQR&utm_campaign=VanityUrl-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/cedar_hill_builder/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"/cedar_hill_builder/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "/cedar_hill_builder/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/eastcoastfloridadiy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"/eastcoastfloridadiy/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "/eastcoastfloridadiy/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/eyeinthedetail/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"/eyeinthedetail/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "/eyeinthedetail/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/family_diy_tv/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"/family_diy_tv/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "/family_diy_tv/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/raisinguprays/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"/raisinguprays/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "/raisinguprays/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/toolsbydesign/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.656Z\",\"redirect\":\"/toolsbydesign/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.656Z",
+            "redirect": "/toolsbydesign/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/weeklyhomecheck/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/weeklyhomecheck/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/weeklyhomecheck/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/gd/attention/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/local/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/fb/long-form/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/california/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/fb/free-estimate-today/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/warranty/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/eastcoastfloridadiy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=eastcoastfloridadiy-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=eastcoastfloridadiy-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/weeklyhomecheck/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=weeklyhomecheck-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=weeklyhomecheck-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/raisinguprays/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=raisinguprays-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=raisinguprays-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/toolsbydesign/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=toolsbydesign-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=toolsbydesign-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/eyeinthedetail/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=eyeinthedetail-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=eyeinthedetail-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/family_diy_tv/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=familydiytv-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=familydiytv-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/rent/pros/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/pros/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/pros/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/email/leaffilter-dec-23-ss/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/email/2023-winter-promo-ss/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/email/2023-winter-promo-ss/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/discover-nextdoor-self-scheduler/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/nd/nextdoor-self-scheduler/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/nd/nextdoor-self-scheduler/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/nextdoor-self-scheduler/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/nd/brand-trust-short-self-scheduler/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/nd/brand-trust-short-self-scheduler/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/fb/discover-facebook-gallery-style/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/fb/gallery/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/fb/gallery/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/charlestoncrafted/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=charlestoncrafted-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=charlestoncrafted-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/wildheartshome/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=wildheartshome-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=wildheartshome-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/citysage/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=citysage-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=citysage-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/kismethouse/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=kismethouse-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=kismethouse-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/carrinoanthony/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=carrinoanthony-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=carrinoanthony-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/accordingtomandy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=accordingtomandy-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=accordingtomandy-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/therenegadehome/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=therenegadehome-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=therenegadehome-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/promo/email/lf-reviews-2024/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/email/lf-reviews-2024/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/email/lf-reviews-2024/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/buildsbykristen/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=buildsbykristen-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=buildsbykristen-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/builtwithtools/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=builtwithtools-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=builtwithtools-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/atimprovements/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=atimprovements-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=atimprovements-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/thehousejudge/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=thehousejudge-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=thehousejudge-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/morganbrownhome/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=morganbrownhome-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=morganbrownhome-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/theweekendbuilder/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=theweekendbuilder-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=theweekendbuilder-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/nikandlivdiy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=nikandlivdiy-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=nikandlivdiy-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/kenclong/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=kenclong-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=kenclong-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/modernmilt/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=modernmilt-ND\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=modernmilt-ND",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/terms-of-use/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leafhome.com/terms-of-use/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leafhome.com/terms-of-use/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/rent/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/rent/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/rent/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/fb/gallery/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/fb/gallery/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/fb/gallery/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/em/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/em/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/em/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/tok/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/tok/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/tok/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/sa/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/sa/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/gd/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/gd/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/gd/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/test/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/test/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/test/blog-smart-solution/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"/discover/blog-smart-solution/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "/discover/blog-smart-solution/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/gd/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/gd-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/gd-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/promo/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/promo-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/promo-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/nd/email/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/nd-www/email-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/nd-www/email-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/gutter-replacement/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/gutter-replacement-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/gutter-replacement-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/pta/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/pta-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/pta-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/brand-trust-short/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/nd-www/brand-trust-short-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/nd-www/brand-trust-short-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/gutter-guard/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/gutter-guard-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/gutter-guard-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/fb/end-gutter-cleaning/free-estimate-today/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/fb-www-old/end-gutter-cleaning-www/free-estimate-today-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/fb-www-old/end-gutter-cleaning-www/free-estimate-today-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/email/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/nd-www/email-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/nd-www/email-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/installation/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/installation-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/installation-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/nd-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/nd-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/cleaning/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/cleaning-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/cleaning-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/sa-alt/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/sa-alt-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/sa-alt-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/why-leaffilter/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/why-leaffilter-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/why-leaffilter-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/ya/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/ya-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/ya-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/pricing/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/pricing-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/pricing-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/local-pros-near-me/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/local-pros-near-me-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/local-pros-near-me-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/email/new-year-new-gutter/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/new-year-new-gutter-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/new-year-new-gutter-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/water-damage/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/water-damage-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/water-damage-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/ya/ad-matching-b-1-9/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/ya-www/ad-matching-b-1-9-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/ya-www/ad-matching-b-1-9-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/ya/ad-matching-c-1-9/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/ya-www/ad-matching-c-1-9-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/ya-www/ad-matching-c-1-9-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/nd/brand-trust/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/nd-www/brand-trust-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/nd-www/brand-trust-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/gutter-protection/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/gutter-protection-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/gutter-protection-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/compare/leafguard/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/compare-www/leafguard-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/compare-www/leafguard-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/tik/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/tik-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/tik-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/ya/cleaning/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/ya-www/cleaning-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/ya-www/cleaning-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/sa/compare/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/sa-www/compare-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/sa-www/compare-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/ya/gutter-guard/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/ya-www/gutter-guard-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/ya-www/gutter-guard-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/discover/gd-k-nov-b/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/gd-k-nov-b-www/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/gd-k-nov-b-www/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/bf23/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/nel-estimate/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/calendar-concept/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/yelp/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/discover/yelp/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/discover/yelp/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/finance-terms/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/finance-terms/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/finance-terms/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/facebook-gtm/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/fb-v2-copy/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/fb-v2-old/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/finishes/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/home/finishes/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/protect-my-home-today/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/cedar_hill_builder/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leaffilter.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leaffilter.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    },
+    {
+        "base64": false,
+        "key": "/full-gtm/",
+        "value": "{\"type\":\"redirect\",\"timestamp\":\"2024-10-29T13:13:15.657Z\",\"redirect\":\"https://www.leafhome.com/\",\"userdata\":{\"id\":\"system-event\",\"name\":\"Automated Process\",\"email\":\"none\"}}",
+        "metadata": {
+            "type": "redirect",
+            "timestamp": "2024-10-29T13:13:15.657Z",
+            "redirect": "https://www.leafhome.com/",
+            "userdata": {
+                "id": "system-event",
+                "name": "Automated Process",
+                "email": "none"
+            }
+        }
+    }
+]

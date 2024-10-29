@@ -1,0 +1,78 @@
+{
+    "plugin": {
+        "version": "5.4.2",
+        "date": "Tue, 29 Oct 2024 13:11:56 +0000"
+    },
+    "groups": [
+        {
+            "id": 1,
+            "name": "Redirections",
+            "redirects": 2,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "name": "Modified Posts",
+            "redirects": 0,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        }
+    ],
+    "redirects": [
+        {
+            "id": 1,
+            "url": "/privacy-policy/",
+            "match_url": "/privacy-policy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://privacy.leafhome.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1203,
+            "regex": false,
+            "group_id": 1,
+            "position": 0,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "url": "/terms-of-use/",
+            "match_url": "/terms-of-use",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhome.com/terms-of-use/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 578,
+            "regex": false,
+            "group_id": 1,
+            "position": 1,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        }
+    ]
+}

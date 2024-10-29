@@ -1,0 +1,97 @@
+[
+    {
+        "vanityURL": "/pros/",
+        "destinationURL": "/discover/rent/pros/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/blog-smart-solution/",
+        "destinationURL": "/discover/rent/blog-smart-solution/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/promo/",
+        "destinationURL": "https://www.leaffilter.com/promo-www/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/discover/sa/gutter-replacement/",
+        "destinationURL": "https://www.leaffilter.com/discover/sa-www/gutter-replacement-www/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/discover/pta/",
+        "destinationURL": "https://www.leaffilter.com/discover/pta-www/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "^/discover/(.*)/",
+        "destinationURL": "https://www.leaffilter.com/discover-www/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/promo/(.*)/",
+        "destinationURL": "https://www.leaffilter.com/promo-www/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/nel(.*)/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/discover-(.*)/",
+        "destinationURL": "https://www.leaffilter.com/discover-www/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/email/(.*)",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/flooring/((.*)/)?",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/fb-(.*)/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "^/nd-(.*)/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "IMPROPER VANITY URL"
+    },
+    {
+        "vanityURL": "/weeklyhomecheck/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/toolsbydesign/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/raisinguprays/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/eyeinthedetail/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/eastcoastfloridadiy/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "DUPLICATE"
+    },
+    {
+        "vanityURL": "/family_diy_tv/",
+        "destinationURL": "https://www.leaffilter.com/",
+        "type": "DUPLICATE"
+    }
+]

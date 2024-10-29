@@ -1,0 +1,3050 @@
+{
+    "plugin": {
+        "version": "5.5.0",
+        "date": "Tue, 29 Oct 2024 13:08:52 +0000"
+    },
+    "groups": [
+        {
+            "id": 1,
+            "name": "Redirections",
+            "redirects": 115,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "name": "Modified Posts",
+            "redirects": 0,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "name": "Vanity URL's",
+            "redirects": 1,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        }
+    ],
+    "redirects": [
+        {
+            "id": 1,
+            "url": "/privacy-policy/",
+            "match_url": "/privacy-policy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://privacy.leafhome.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2441,
+            "regex": false,
+            "group_id": 1,
+            "position": 0,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "url": "/pros/",
+            "match_url": "/pros",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/pros/?utm_source=41ATBQR&utm_campaign=VanityUrl-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 17,
+            "regex": false,
+            "group_id": 3,
+            "position": 0,
+            "last_access": "July 24, 2024",
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "url": "/discover/cedar_hill_builder/",
+            "match_url": "/discover/cedar_hill_builder",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/cedar_hill_builder/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 1,
+            "last_access": "November 16, 2023",
+            "enabled": true
+        },
+        {
+            "id": 4,
+            "url": "/discover/eastcoastfloridadiy/",
+            "match_url": "/discover/eastcoastfloridadiy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/eastcoastfloridadiy/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 2,
+            "last_access": "November 16, 2023",
+            "enabled": true
+        },
+        {
+            "id": 5,
+            "url": "/discover/eyeinthedetail/",
+            "match_url": "/discover/eyeinthedetail",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/eyeinthedetail/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 3,
+            "last_access": "November 16, 2023",
+            "enabled": true
+        },
+        {
+            "id": 6,
+            "url": "/discover/family_diy_tv/",
+            "match_url": "/discover/family_diy_tv",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/family_diy_tv/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 4,
+            "last_access": "November 16, 2023",
+            "enabled": true
+        },
+        {
+            "id": 7,
+            "url": "/discover/raisinguprays/",
+            "match_url": "/discover/raisinguprays",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/raisinguprays/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 5,
+            "last_access": "November 16, 2023",
+            "enabled": true
+        },
+        {
+            "id": 8,
+            "url": "/discover/toolsbydesign/",
+            "match_url": "/discover/toolsbydesign",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/toolsbydesign/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 6,
+            "last_access": "November 16, 2023",
+            "enabled": true
+        },
+        {
+            "id": 9,
+            "url": "/discover/weeklyhomecheck/",
+            "match_url": "/discover/weeklyhomecheck",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/weeklyhomecheck/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 15,
+            "regex": false,
+            "group_id": 1,
+            "position": 7,
+            "last_access": "December 28, 2023",
+            "enabled": true
+        },
+        {
+            "id": 10,
+            "url": "/discover/gd/attention/",
+            "match_url": "/discover/gd/attention",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 8,
+            "regex": false,
+            "group_id": 1,
+            "position": 8,
+            "last_access": "August 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 11,
+            "url": "/discover/nd/local/",
+            "match_url": "/discover/nd/local",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 9,
+            "last_access": "August 31, 2024",
+            "enabled": true
+        },
+        {
+            "id": 12,
+            "url": "/discover/fb/long-form/",
+            "match_url": "/discover/fb/long-form",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 10,
+            "last_access": "January 18, 2024",
+            "enabled": true
+        },
+        {
+            "id": 13,
+            "url": "/discover/nd/california/",
+            "match_url": "/discover/nd/california",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 11,
+            "last_access": "May 21, 2024",
+            "enabled": true
+        },
+        {
+            "id": 14,
+            "url": "/discover/fb/free-estimate-today/",
+            "match_url": "/discover/fb/free-estimate-today",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 259,
+            "regex": false,
+            "group_id": 1,
+            "position": 12,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 15,
+            "url": "/warranty",
+            "match_url": "/warranty",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 27,
+            "regex": false,
+            "group_id": 1,
+            "position": 13,
+            "last_access": "September 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 16,
+            "url": "/eastcoastfloridadiy/",
+            "match_url": "/eastcoastfloridadiy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=eastcoastfloridadiy-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 55,
+            "regex": false,
+            "group_id": 1,
+            "position": 14,
+            "last_access": "June 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 17,
+            "url": "/weeklyhomecheck/",
+            "match_url": "/weeklyhomecheck",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=weeklyhomecheck-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 272,
+            "regex": false,
+            "group_id": 1,
+            "position": 15,
+            "last_access": "October 22, 2024",
+            "enabled": true
+        },
+        {
+            "id": 18,
+            "url": "/raisinguprays/",
+            "match_url": "/raisinguprays",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=raisinguprays-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 30,
+            "regex": false,
+            "group_id": 1,
+            "position": 16,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 19,
+            "url": "/toolsbydesign/",
+            "match_url": "/toolsbydesign",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=toolsbydesign-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1967,
+            "regex": false,
+            "group_id": 1,
+            "position": 17,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 20,
+            "url": "/eyeinthedetail/",
+            "match_url": "/eyeinthedetail",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=eyeinthedetail-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 686,
+            "regex": false,
+            "group_id": 1,
+            "position": 18,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 21,
+            "url": "/family_diy_tv/",
+            "match_url": "/family_diy_tv",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=familydiytv-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 11,
+            "regex": false,
+            "group_id": 1,
+            "position": 19,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 22,
+            "url": "/pros/",
+            "match_url": "/pros",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/rent/pros/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 20,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 23,
+            "url": "/discover/rent/pros/",
+            "match_url": "/discover/rent/pros",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/pros/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 21,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 24,
+            "url": "/email/leaffilter-dec-23-ss/",
+            "match_url": "/email/leaffilter-dec-23-ss",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/email/2023-winter-promo-ss/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 22,
+            "last_access": "December 8, 2023",
+            "enabled": true
+        },
+        {
+            "id": 25,
+            "url": "/discover/nd/discover-nextdoor-self-scheduler/",
+            "match_url": "/discover/nd/discover-nextdoor-self-scheduler",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/nd/nextdoor-self-scheduler/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 23,
+            "last_access": "December 12, 2023",
+            "enabled": true
+        },
+        {
+            "id": 26,
+            "url": "/discover/nd/nextdoor-self-scheduler/",
+            "match_url": "/discover/nd/nextdoor-self-scheduler",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/nd/brand-trust-short-self-scheduler/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 24,
+            "last_access": "December 12, 2023",
+            "enabled": true
+        },
+        {
+            "id": 27,
+            "url": "/discover/fb/discover-facebook-gallery-style/",
+            "match_url": "/discover/fb/discover-facebook-gallery-style",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/fb/gallery/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 25,
+            "last_access": "December 15, 2023",
+            "enabled": true
+        },
+        {
+            "id": 28,
+            "url": "/charlestoncrafted/",
+            "match_url": "/charlestoncrafted",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=charlestoncrafted-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 18,
+            "regex": false,
+            "group_id": 1,
+            "position": 26,
+            "last_access": "January 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 29,
+            "url": "/wildheartshome/",
+            "match_url": "/wildheartshome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=wildheartshome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 70,
+            "regex": false,
+            "group_id": 1,
+            "position": 27,
+            "last_access": "March 20, 2024",
+            "enabled": true
+        },
+        {
+            "id": 30,
+            "url": "/citysage/",
+            "match_url": "/citysage",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=citysage-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 20,
+            "regex": false,
+            "group_id": 1,
+            "position": 28,
+            "last_access": "February 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 31,
+            "url": "/kismethouse/",
+            "match_url": "/kismethouse",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=kismethouse-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 625,
+            "regex": false,
+            "group_id": 1,
+            "position": 29,
+            "last_access": "October 27, 2024",
+            "enabled": true
+        },
+        {
+            "id": 32,
+            "url": "/carrinoanthony/",
+            "match_url": "/carrinoanthony",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=carrinoanthony-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 65,
+            "regex": false,
+            "group_id": 1,
+            "position": 30,
+            "last_access": "October 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 33,
+            "url": "/accordingtomandy/",
+            "match_url": "/accordingtomandy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=accordingtomandy-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 75,
+            "regex": false,
+            "group_id": 1,
+            "position": 31,
+            "last_access": "September 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 34,
+            "url": "/therenegadehome/",
+            "match_url": "/therenegadehome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=therenegadehome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 711,
+            "regex": false,
+            "group_id": 1,
+            "position": 32,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 35,
+            "url": "/promo/email/lf-reviews-2024/",
+            "match_url": "/promo/email/lf-reviews-2024",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/email/lf-reviews-2024/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 33,
+            "last_access": "January 31, 2024",
+            "enabled": true
+        },
+        {
+            "id": 36,
+            "url": "/buildsbykristen/",
+            "match_url": "/buildsbykristen",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=buildsbykristen-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 34,
+            "last_access": "February 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 37,
+            "url": "/builtwithtools/",
+            "match_url": "/builtwithtools",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=builtwithtools-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 156,
+            "regex": false,
+            "group_id": 1,
+            "position": 35,
+            "last_access": "October 21, 2024",
+            "enabled": true
+        },
+        {
+            "id": 38,
+            "url": "/atimprovements/",
+            "match_url": "/atimprovements",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=atimprovements-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 108,
+            "regex": false,
+            "group_id": 1,
+            "position": 36,
+            "last_access": "September 17, 2024",
+            "enabled": true
+        },
+        {
+            "id": 39,
+            "url": "/thehousejudge/",
+            "match_url": "/thehousejudge",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=thehousejudge-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 23,
+            "regex": false,
+            "group_id": 1,
+            "position": 37,
+            "last_access": "March 6, 2024",
+            "enabled": true
+        },
+        {
+            "id": 40,
+            "url": "/morganbrownhome/",
+            "match_url": "/morganbrownhome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=morganbrownhome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 38,
+            "last_access": "February 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 41,
+            "url": "/theweekendbuilder/",
+            "match_url": "/theweekendbuilder",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=theweekendbuilder-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 172,
+            "regex": false,
+            "group_id": 1,
+            "position": 39,
+            "last_access": "May 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 42,
+            "url": "/nikandlivdiy/",
+            "match_url": "/nikandlivdiy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=nikandlivdiy-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 67,
+            "regex": false,
+            "group_id": 1,
+            "position": 40,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 43,
+            "url": "/kenclong/",
+            "match_url": "/kenclong",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=kenclong-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 80,
+            "regex": false,
+            "group_id": 1,
+            "position": 41,
+            "last_access": "August 5, 2024",
+            "enabled": true
+        },
+        {
+            "id": 44,
+            "url": "/modernmilt/",
+            "match_url": "/modernmilt",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leaffilter.com/discover/?utm_source=41I&utm_campaign=modernmilt-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": false,
+            "group_id": 1,
+            "position": 42,
+            "last_access": "February 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 45,
+            "url": "/terms-of-use/",
+            "match_url": "/terms-of-use",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhome.com/terms-of-use/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 646,
+            "regex": false,
+            "group_id": 1,
+            "position": 43,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 46,
+            "url": "/blog-smart-solution/",
+            "match_url": "/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/rent/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 12,
+            "regex": false,
+            "group_id": 1,
+            "position": 44,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 47,
+            "url": "/discover/rent/blog-smart-solution/",
+            "match_url": "/discover/rent/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/self-scheduler/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 45,
+            "last_access": "February 28, 2024",
+            "enabled": false
+        },
+        {
+            "id": 48,
+            "url": "/blog-smart-solution/",
+            "match_url": "/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/rent/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 46,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 49,
+            "url": "/discover/rent/blog-smart-solution/",
+            "match_url": "/discover/rent/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/fb/gallery/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 47,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 50,
+            "url": "/discover/fb/gallery/blog-smart-solution/",
+            "match_url": "/discover/fb/gallery/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/em/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 48,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 51,
+            "url": "/discover/em/blog-smart-solution/",
+            "match_url": "/discover/em/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/tok/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 49,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 52,
+            "url": "/discover/tok/blog-smart-solution/",
+            "match_url": "/discover/tok/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/sa/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 50,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 53,
+            "url": "/discover/sa/blog-smart-solution/",
+            "match_url": "/discover/sa/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/gd/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 51,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 54,
+            "url": "/discover/gd/blog-smart-solution/",
+            "match_url": "/discover/gd/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/test/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 52,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 55,
+            "url": "/test/blog-smart-solution/",
+            "match_url": "/test/blog-smart-solution",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/blog-smart-solution/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 53,
+            "last_access": "March 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 56,
+            "url": "/discover/gd/",
+            "match_url": "/discover/gd",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/gd-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 21,
+            "regex": false,
+            "group_id": 1,
+            "position": 54,
+            "last_access": "July 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 57,
+            "url": "/promo/",
+            "match_url": "/promo",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/promo-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 819,
+            "regex": false,
+            "group_id": 1,
+            "position": 55,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 58,
+            "url": "/nd/email/",
+            "match_url": "/nd/email",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/nd-www/email-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 9,
+            "regex": false,
+            "group_id": 1,
+            "position": 56,
+            "last_access": "March 6, 2024",
+            "enabled": true
+        },
+        {
+            "id": 59,
+            "url": "/discover/sa/gutter-replacement/",
+            "match_url": "/discover/sa/gutter-replacement",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/gutter-replacement-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 13,
+            "regex": false,
+            "group_id": 1,
+            "position": 57,
+            "last_access": "May 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 60,
+            "url": "/discover/pta/",
+            "match_url": "/discover/pta",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/pta-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3778,
+            "regex": false,
+            "group_id": 1,
+            "position": 58,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 61,
+            "url": "/discover/nd/brand-trust-short/",
+            "match_url": "/discover/nd/brand-trust-short",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/nd-www/brand-trust-short-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 7291,
+            "regex": false,
+            "group_id": 1,
+            "position": 59,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 62,
+            "url": "/promo/",
+            "match_url": "/promo",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/promo-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 60,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 63,
+            "url": "/",
+            "match_url": "/",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5724,
+            "regex": false,
+            "group_id": 1,
+            "position": 61,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 64,
+            "url": "/discover/sa/gutter-replacement/",
+            "match_url": "/discover/sa/gutter-replacement",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/gutter-replacement-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 62,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 65,
+            "url": "/discover/sa/gutter-guard/",
+            "match_url": "/discover/sa/gutter-guard",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/gutter-guard-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 801,
+            "regex": false,
+            "group_id": 1,
+            "position": 63,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 66,
+            "url": "/discover/fb/end-gutter-cleaning/free-estimate-today/",
+            "match_url": "/discover/fb/end-gutter-cleaning/free-estimate-today",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/fb-www-old/end-gutter-cleaning-www/free-estimate-today-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 622,
+            "regex": false,
+            "group_id": 1,
+            "position": 64,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 67,
+            "url": "/discover/nd/email/",
+            "match_url": "/discover/nd/email",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/nd-www/email-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 65,
+            "last_access": "April 18, 2024",
+            "enabled": true
+        },
+        {
+            "id": 68,
+            "url": "/discover/sa/installation/",
+            "match_url": "/discover/sa/installation",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/installation-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2225,
+            "regex": false,
+            "group_id": 1,
+            "position": 66,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 69,
+            "url": "/discover/nd/",
+            "match_url": "/discover/nd",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/nd-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 11659,
+            "regex": false,
+            "group_id": 1,
+            "position": 67,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 70,
+            "url": "/discover/sa/cleaning/",
+            "match_url": "/discover/sa/cleaning",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/cleaning-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1450,
+            "regex": false,
+            "group_id": 1,
+            "position": 68,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 71,
+            "url": "/discover/sa/sa-alt/",
+            "match_url": "/discover/sa/sa-alt",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/sa-alt-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 96,
+            "regex": false,
+            "group_id": 1,
+            "position": 69,
+            "last_access": "October 23, 2024",
+            "enabled": true
+        },
+        {
+            "id": 72,
+            "url": "/discover/sa/why-leaffilter/",
+            "match_url": "/discover/sa/why-leaffilter",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/why-leaffilter-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1917,
+            "regex": false,
+            "group_id": 1,
+            "position": 70,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 73,
+            "url": "/discover/pta/",
+            "match_url": "/discover/pta",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/pta-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 71,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 74,
+            "url": "/discover/ya/",
+            "match_url": "/discover/ya",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/ya-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1695,
+            "regex": false,
+            "group_id": 1,
+            "position": 72,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 75,
+            "url": "/discover/sa/pricing/",
+            "match_url": "/discover/sa/pricing",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/pricing-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1219,
+            "regex": false,
+            "group_id": 1,
+            "position": 73,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 76,
+            "url": "/discover/",
+            "match_url": "/discover",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2856,
+            "regex": false,
+            "group_id": 1,
+            "position": 74,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 77,
+            "url": "/discover/sa/local-pros-near-me/",
+            "match_url": "/discover/sa/local-pros-near-me",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/local-pros-near-me-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 323,
+            "regex": false,
+            "group_id": 1,
+            "position": 75,
+            "last_access": "October 26, 2024",
+            "enabled": true
+        },
+        {
+            "id": 78,
+            "url": "/email/new-year-new-gutter/",
+            "match_url": "/email/new-year-new-gutter",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/new-year-new-gutter-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 19,
+            "regex": false,
+            "group_id": 1,
+            "position": 76,
+            "last_access": "October 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 79,
+            "url": "/discover/water-damage/",
+            "match_url": "/discover/water-damage",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/water-damage-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2589,
+            "regex": false,
+            "group_id": 1,
+            "position": 77,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 80,
+            "url": "/discover/ya/ad-matching-b-1-9/",
+            "match_url": "/discover/ya/ad-matching-b-1-9",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/ya-www/ad-matching-b-1-9-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 20,
+            "regex": false,
+            "group_id": 1,
+            "position": 78,
+            "last_access": "October 17, 2024",
+            "enabled": true
+        },
+        {
+            "id": 81,
+            "url": "/discover/ya/ad-matching-c-1-9/",
+            "match_url": "/discover/ya/ad-matching-c-1-9",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/ya-www/ad-matching-c-1-9-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 27,
+            "regex": false,
+            "group_id": 1,
+            "position": 79,
+            "last_access": "October 3, 2024",
+            "enabled": true
+        },
+        {
+            "id": 82,
+            "url": "/discover/nd/brand-trust/",
+            "match_url": "/discover/nd/brand-trust",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/nd-www/brand-trust-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5751,
+            "regex": false,
+            "group_id": 1,
+            "position": 80,
+            "last_access": "October 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 83,
+            "url": "/discover/sa/gutter-protection/",
+            "match_url": "/discover/sa/gutter-protection",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/gutter-protection-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 198,
+            "regex": false,
+            "group_id": 1,
+            "position": 81,
+            "last_access": "October 24, 2024",
+            "enabled": true
+        },
+        {
+            "id": 84,
+            "url": "/discover/sa/compare/leafguard/",
+            "match_url": "/discover/sa/compare/leafguard",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/compare-www/leafguard-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 835,
+            "regex": false,
+            "group_id": 1,
+            "position": 82,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 85,
+            "url": "/discover/tik/",
+            "match_url": "/discover/tik",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/tik-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 46,
+            "regex": false,
+            "group_id": 1,
+            "position": 83,
+            "last_access": "October 12, 2024",
+            "enabled": true
+        },
+        {
+            "id": 86,
+            "url": "/discover/ya/cleaning/",
+            "match_url": "/discover/ya/cleaning",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/ya-www/cleaning-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 23,
+            "regex": false,
+            "group_id": 1,
+            "position": 84,
+            "last_access": "October 1, 2024",
+            "enabled": true
+        },
+        {
+            "id": 87,
+            "url": "/discover/sa/compare/",
+            "match_url": "/discover/sa/compare",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/sa-www/compare-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2615,
+            "regex": false,
+            "group_id": 1,
+            "position": 85,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 88,
+            "url": "/discover/ya/gutter-guard/",
+            "match_url": "/discover/ya/gutter-guard",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/ya-www/gutter-guard-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 23,
+            "regex": false,
+            "group_id": 1,
+            "position": 86,
+            "last_access": "October 3, 2024",
+            "enabled": true
+        },
+        {
+            "id": 89,
+            "url": "/discover/gd-k-nov-b/",
+            "match_url": "/discover/gd-k-nov-b",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/gd-k-nov-b-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 52,
+            "regex": false,
+            "group_id": 1,
+            "position": 87,
+            "last_access": "September 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 90,
+            "url": "^/discover/(.*)/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover-www/"
+            },
+            "match_type": "url",
+            "title": "Redirect all over discover pages",
+            "hits": 12388,
+            "regex": true,
+            "group_id": 1,
+            "position": 999,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 91,
+            "url": "^/promo/(.*)/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/promo-www/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 739,
+            "regex": true,
+            "group_id": 1,
+            "position": 999,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        },
+        {
+            "id": 92,
+            "url": "/bf23/",
+            "match_url": "/bf23",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 128,
+            "regex": false,
+            "group_id": 1,
+            "position": 90,
+            "last_access": "October 27, 2024",
+            "enabled": true
+        },
+        {
+            "id": 93,
+            "url": "/nel-estimate/",
+            "match_url": "/nel-estimate",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 91,
+            "last_access": "April 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 94,
+            "url": "^/nel(.*)/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 4,
+            "regex": true,
+            "group_id": 1,
+            "position": 999,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 95,
+            "url": "/calendar-concept/",
+            "match_url": "/calendar-concept",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 19,
+            "regex": false,
+            "group_id": 1,
+            "position": 93,
+            "last_access": "October 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 96,
+            "url": "^/discover-(.*)/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover-www/"
+            },
+            "match_type": "url",
+            "title": "discover wildcard for discover- pages",
+            "hits": 2,
+            "regex": true,
+            "group_id": 1,
+            "position": 1999,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 97,
+            "url": "/yelp/",
+            "match_url": "/yelp",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/discover/yelp/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 95,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 98,
+            "url": "^/email/(.*)",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "redirect all remaining /email/* urls to www",
+            "hits": 43,
+            "regex": true,
+            "group_id": 1,
+            "position": 999,
+            "last_access": "October 22, 2024",
+            "enabled": true
+        },
+        {
+            "id": 99,
+            "url": "^/flooring/((.*)/)?",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "redirect remaining flooring pages to www",
+            "hits": 6,
+            "regex": true,
+            "group_id": 1,
+            "position": 97,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 100,
+            "url": "/finance-terms/",
+            "match_url": "/finance-terms",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/finance-terms/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 19,
+            "regex": false,
+            "group_id": 1,
+            "position": 98,
+            "last_access": "August 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 101,
+            "url": "/facebook-gtm/",
+            "match_url": "/facebook-gtm",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 99,
+            "last_access": "April 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 102,
+            "url": "/fb-v2-copy/",
+            "match_url": "/fb-v2-copy",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 100,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 103,
+            "url": "/fb-v2-old/",
+            "match_url": "/fb-v2-old",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 101,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 104,
+            "url": "/finishes/",
+            "match_url": "/finishes",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 102,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 105,
+            "url": "/home/finishes/",
+            "match_url": "/home/finishes",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 103,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 106,
+            "url": "^/fb-(.*)/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": true,
+            "group_id": 1,
+            "position": 104,
+            "last_access": "April 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 107,
+            "url": "^/nd-(.*)/",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": true,
+            "group_id": 1,
+            "position": 105,
+            "last_access": "April 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 108,
+            "url": "/protect-my-home-today/",
+            "match_url": "/protect-my-home-today",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 106,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 109,
+            "url": "/weeklyhomecheck/",
+            "match_url": "/weeklyhomecheck",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 107,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 110,
+            "url": "/toolsbydesign/",
+            "match_url": "/toolsbydesign",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 108,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 111,
+            "url": "/raisinguprays/",
+            "match_url": "/raisinguprays",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 109,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 112,
+            "url": "/eyeinthedetail/",
+            "match_url": "/eyeinthedetail",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 110,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 113,
+            "url": "/eastcoastfloridadiy/",
+            "match_url": "/eastcoastfloridadiy",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 111,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 114,
+            "url": "/cedar_hill_builder/",
+            "match_url": "/cedar_hill_builder",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 112,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        },
+        {
+            "id": 115,
+            "url": "/family_diy_tv/",
+            "match_url": "/family_diy_tv",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leaffilter.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 113,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 116,
+            "url": "/full-gtm/",
+            "match_url": "/full-gtm",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://www.leafhome.com/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 114,
+            "last_access": "April 15, 2024",
+            "enabled": true
+        }
+    ]
+}

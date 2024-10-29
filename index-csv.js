@@ -71,6 +71,7 @@ function toJSON(file) {
 }
 
 function getVanity(key) {
+  console.log(key);
   const regex = /https:\/\/([^.]*)\.([^.]*)\.(com|ca)/i;
   const result = regex.exec(key);
   const domain = result[0];

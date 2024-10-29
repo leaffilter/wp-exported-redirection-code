@@ -1,0 +1,546 @@
+{
+    "plugin": {
+        "version": "5.4.2",
+        "date": "Tue, 29 Oct 2024 13:05:22 +0000"
+    },
+    "groups": [
+        {
+            "id": 1,
+            "name": "Redirections",
+            "redirects": 20,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "name": "Modified Posts",
+            "redirects": 0,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        }
+    ],
+    "redirects": [
+        {
+            "id": 1,
+            "url": "/weeklyhomecheck",
+            "match_url": "/weeklyhomecheck",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=weeklyhomecheck-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 278,
+            "regex": false,
+            "group_id": 1,
+            "position": 0,
+            "last_access": "October 11, 2024",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "url": "/toolsbydesign/",
+            "match_url": "/toolsbydesign",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=toolsbydesign-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 7,
+            "regex": false,
+            "group_id": 1,
+            "position": 1,
+            "last_access": "January 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "url": "/eastcoastfloridadiy/",
+            "match_url": "/eastcoastfloridadiy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=eastcoastfloridadiy-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 50,
+            "regex": false,
+            "group_id": 1,
+            "position": 2,
+            "last_access": "February 28, 2024",
+            "enabled": true
+        },
+        {
+            "id": 4,
+            "url": "/citysage/",
+            "match_url": "/citysage",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=citysage-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 3,
+            "last_access": "January 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 5,
+            "url": "/kismethouse/",
+            "match_url": "/kismethouse",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=kismethouse-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 4,
+            "last_access": "February 2, 2024",
+            "enabled": true
+        },
+        {
+            "id": 6,
+            "url": "/carrinoanthony/",
+            "match_url": "/carrinoanthony",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=carrinoanthony-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 5,
+            "last_access": "January 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 7,
+            "url": "/accordingtomandy/",
+            "match_url": "/accordingtomandy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=accordingtomandy-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1,
+            "regex": false,
+            "group_id": 1,
+            "position": 6,
+            "last_access": "January 16, 2024",
+            "enabled": true
+        },
+        {
+            "id": 8,
+            "url": "/therenegadehome/",
+            "match_url": "/therenegadehome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=therenegadehome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 7,
+            "last_access": "February 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 9,
+            "url": "/buildtomade/",
+            "match_url": "/buildtomade",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=buildtomade-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 3,
+            "regex": false,
+            "group_id": 1,
+            "position": 8,
+            "last_access": "January 30, 2024",
+            "enabled": true
+        },
+        {
+            "id": 10,
+            "url": "/eyeinthedetail/",
+            "match_url": "/eyeinthedetail",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=eyeinthedetail-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 15,
+            "regex": false,
+            "group_id": 1,
+            "position": 9,
+            "last_access": "February 14, 2024",
+            "enabled": true
+        },
+        {
+            "id": 11,
+            "url": "/charlestoncrafted/",
+            "match_url": "/charlestoncrafted",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=charlestoncrafted-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 60,
+            "regex": false,
+            "group_id": 1,
+            "position": 10,
+            "last_access": "October 25, 2024",
+            "enabled": true
+        },
+        {
+            "id": 12,
+            "url": "/wildheartshome/",
+            "match_url": "/wildheartshome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=wildheartshome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 54,
+            "regex": false,
+            "group_id": 1,
+            "position": 11,
+            "last_access": "March 21, 2024",
+            "enabled": true
+        },
+        {
+            "id": 13,
+            "url": "/buildsbykristen/",
+            "match_url": "/buildsbykristen",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=buildsbykristen-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 25,
+            "regex": false,
+            "group_id": 1,
+            "position": 12,
+            "last_access": "March 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 14,
+            "url": "/buildsbykristen/",
+            "match_url": "/buildsbykristen",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=buildsbykristen-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 13,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 15,
+            "url": "/morganbrownhome/",
+            "match_url": "/morganbrownhome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=morganbrownhome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 112,
+            "regex": false,
+            "group_id": 1,
+            "position": 14,
+            "last_access": "October 4, 2024",
+            "enabled": true
+        },
+        {
+            "id": 16,
+            "url": "/styleitprettyhome/",
+            "match_url": "/styleitprettyhome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=styleitprettyhome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 554,
+            "regex": false,
+            "group_id": 1,
+            "position": 15,
+            "last_access": "October 13, 2024",
+            "enabled": true
+        },
+        {
+            "id": 17,
+            "url": "/modernmilt/",
+            "match_url": "/modernmilt",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=modernmilt-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 2,
+            "regex": false,
+            "group_id": 1,
+            "position": 16,
+            "last_access": "February 8, 2024",
+            "enabled": true
+        },
+        {
+            "id": 18,
+            "url": "/therenegadehome/",
+            "match_url": "/therenegadehome",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=therenegadehome-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 17,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 19,
+            "url": "/keepinupwithkj_diy/",
+            "match_url": "/keepinupwithkj_diy",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://get.leafhomewatersolutions.com/discover/?utm_source=41I&utm_campaign=keepinupwithkj_diy-ND"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 74,
+            "regex": false,
+            "group_id": 1,
+            "position": 18,
+            "last_access": "October 26, 2024",
+            "enabled": true
+        },
+        {
+            "id": 22,
+            "url": "/discover/fst/",
+            "match_url": "/discover/fst",
+            "match_data": {
+                "source": {
+                    "flag_query": "pass",
+                    "flag_case": true,
+                    "flag_trailing": true,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/discover/pfas-a/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1359,
+            "regex": false,
+            "group_id": 1,
+            "position": 19,
+            "last_access": "October 29, 2024",
+            "enabled": true
+        }
+    ]
+}
